@@ -72,7 +72,7 @@ To test whether upstream macro drivers are associated with downstream inventory 
 | --- | --- | --- | --- | --- | --- |
 | Correlation (YoY) | 0.252 | 0.360 | 0.430 | **0.466** | 0.443 |
 
-The association rises from lag0 to a peak at 9 months and then falls — a profile consistent with corn prices being associated with inventory levels on a delayed basis rather than coincidentally. The fed-funds rate shows a weaker and flatter profile across all lags. Raw query output: [`data/lead_lag_analysis.csv`](data/lead_lag_analysis.csv).
+The association rises from lag0 to a peak at 9 months and then falls — a profile consistent with corn prices being associated with inventory levels on a delayed basis rather than coincidentally. The fed-funds rate shows a weaker and flatter profile across all lags. Raw query output: [`data/lead_lag_analysis.csv`](https://github.com/alexjardinedata/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker./blob/main/data/lead_lag_analysis.csv).
 
 **Interpretation boundary:** a rising correlation profile at a lag is consistent with the hypothesized supply-chain sequence; it does not establish that corn prices *cause* inventory changes. Economy-wide factors — credit conditions, general investment sentiment, commodity cycles — could simultaneously influence both series. The finding is that the timing offset *aligns with* the mechanism, not that the mechanism is proven.
 
@@ -92,7 +92,7 @@ These are stated up front because a reader who knows the business will check for
 
 ## How It Was Built
 
-All logic lives in one organized file: [`docs/queries.sql`](docs/queries.sql).
+All logic lives in one organized file: [`docs/queries.sql`](https://github.com/alexjardinedata/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker./blob/main/docs/queries.sql).
 
 **1. Raw inspection (read-only).** Row counts and date coverage, NULL/non-numeric scan via `SAFE_CAST`, duplicate-date check (`GROUP BY ... HAVING COUNT(*) > 1`), and a month-gap/contiguity check using `LAG()` partitioned by series. All four inputs verified clean: no nulls, no duplicate dates, no gaps.
 
@@ -159,7 +159,7 @@ Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker/
     └── SH_market_research_project_viz.pbix          Power BI source file (reference)
 ```
 
-**Live dashboard:** [alexjardinedata.github.io/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker](https://alexjardinedata.github.io/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker/)
+**Live dashboard:** [alexjardinedata.github.io/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker](https://alexjardinedata.github.io/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker./)
 
 ---
 
