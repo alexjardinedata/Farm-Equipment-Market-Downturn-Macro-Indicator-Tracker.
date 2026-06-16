@@ -1,0 +1,2353 @@
+month_date,series_id,series_name,unit,value,data_status
+1971-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),43.2,reported
+1971-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),44.4,reported
+1971-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),46.5,reported
+1972-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),48.0,reported
+1972-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),48.9,reported
+1972-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),48.9,reported
+1972-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),49.9,reported
+1971-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),50.2,reported
+1972-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),50.7,reported
+1972-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),50.7,reported
+1972-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),51.1,reported
+1971-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),51.3,reported
+1972-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),51.4,reported
+1972-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),51.7,reported
+1972-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),52.2,reported
+1972-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),55.4,reported
+1986-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),58.0,reported
+1987-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),59.4,reported
+1971-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),59.6,reported
+1971-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),60.2,reported
+1986-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),60.4,reported
+1971-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),60.8,reported
+1987-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),61.3,reported
+2000-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),61.7,reported
+1987-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),61.9,reported
+1971-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),62.0,reported
+1987-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),62.0,reported
+1973-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),62.6,reported
+2005-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),62.6,reported
+1971-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),63.0,reported
+1973-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),63.2,reported
+1971-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),63.4,reported
+1971-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),63.6,reported
+1973-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),64.7,reported
+1987-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),64.8,reported
+2000-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),65.3,reported
+1986-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),65.4,reported
+2000-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),65.5,reported
+1973-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),66.0,reported
+1972-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),66.0,reported
+1987-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),67.1,reported
+1999-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),67.3,reported
+2005-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),67.8,reported
+1987-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),68.0,reported
+1987-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),68.3,reported
+1986-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),68.6,reported
+1999-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),68.7,reported
+1986-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),69.0,reported
+2005-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),69.2,reported
+2004-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),69.6,reported
+1977-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),71.8,reported
+2004-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),71.8,reported
+2000-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),71.9,reported
+2001-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),72.4,reported
+1998-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),72.5,reported
+1999-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),72.7,reported
+1977-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),73.0,reported
+1987-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),73.1,reported
+1977-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),73.2,reported
+1999-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),73.2,reported
+1988-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),73.3,reported
+2001-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),74.3,reported
+1999-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),74.4,reported
+1987-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),74.5,reported
+2005-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),75.6,reported
+2004-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),75.6,reported
+1987-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),75.7,reported
+2001-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),75.8,reported
+1987-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),75.9,reported
+2000-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),76.1,reported
+2005-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),76.1,reported
+2000-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.1,reported
+2001-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.2,reported
+2005-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.2,reported
+2001-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.5,reported
+2005-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.7,reported
+2005-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.7,reported
+2006-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.8,reported
+2005-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),77.8,reported
+2002-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),78.1,reported
+2000-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),78.3,reported
+2001-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),78.6,reported
+2000-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),78.9,reported
+2001-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),79.2,reported
+2006-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),79.2,reported
+2002-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),79.2,reported
+1999-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),79.2,reported
+2002-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.0,reported
+2002-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.1,reported
+1988-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.1,reported
+1988-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.2,reported
+2002-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.2,reported
+1998-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.2,reported
+1998-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.5,reported
+2005-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.6,reported
+2001-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.8,reported
+1988-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),80.8,reported
+2006-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.0,reported
+2001-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.1,reported
+1988-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.3,reported
+1977-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.6,reported
+2001-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.6,reported
+1999-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.7,reported
+1986-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.8,reported
+1973-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),81.9,reported
+1992-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.0,reported
+2006-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.1,reported
+1994-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.1,reported
+2000-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.8,reported
+2006-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.9,reported
+1994-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.9,reported
+1982-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),82.9,reported
+2001-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.0,reported
+2002-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.1,reported
+1999-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.2,reported
+1998-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.6,reported
+2000-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.6,reported
+1999-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.7,reported
+1982-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.7,reported
+1992-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.8,reported
+2001-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),83.8,reported
+1998-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.1,reported
+1993-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.1,reported
+2005-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.1,reported
+1977-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.3,reported
+1999-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.5,reported
+1993-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.5,reported
+1999-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.7,reported
+2005-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.8,reported
+2003-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),84.9,reported
+1978-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),85.3,reported
+1999-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),85.5,reported
+1992-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),85.6,reported
+1993-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),85.7,reported
+2004-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),86.0,reported
+2003-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),86.1,reported
+1973-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),86.7,reported
+1993-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),86.7,reported
+1978-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),87.3,reported
+1977-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),87.3,reported
+1978-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),87.5,reported
+2000-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),87.7,reported
+1978-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),87.7,reported
+2000-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),87.8,reported
+2006-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.2,reported
+1977-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.3,reported
+1978-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.3,reported
+1992-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.3,reported
+1994-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.7,reported
+2003-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.8,reported
+2002-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.8,reported
+1978-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.9,reported
+2006-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),88.9,reported
+1994-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.0,reported
+1992-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.0,reported
+1985-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.0,reported
+2006-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.3,reported
+1994-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.5,reported
+1998-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.8,reported
+1990-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),89.9,reported
+1978-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),90.1,reported
+1979-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),90.1,reported
+1991-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),90.2,reported
+1995-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),90.3,reported
+1993-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),90.8,reported
+1990-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),90.8,reported
+2004-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),91.2,reported
+1993-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),91.4,reported
+2003-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),91.5,reported
+1989-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),91.8,reported
+2002-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),91.8,reported
+1993-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.0,reported
+2003-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.1,reported
+1998-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.4,reported
+1976-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.5,reported
+1978-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.7,reported
+1993-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.7,reported
+1979-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),92.9,reported
+1995-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.0,reported
+1990-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.4,reported
+1978-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.5,reported
+1994-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.7,reported
+1991-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.7,reported
+1993-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.8,reported
+1990-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.9,reported
+2002-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),93.9,reported
+1982-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.1,reported
+1989-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.2,reported
+1977-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.3,reported
+1979-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.5,reported
+2003-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.6,reported
+1993-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.7,reported
+1989-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.7,reported
+1989-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.8,reported
+1990-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),94.9,reported
+1991-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),95.3,reported
+1991-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),95.3,reported
+2006-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),95.3,reported
+1991-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),95.5,reported
+1989-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),95.9,reported
+1982-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),95.9,reported
+1985-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.0,reported
+1981-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.3,reported
+1992-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.4,reported
+1995-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.6,reported
+2003-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.6,reported
+1986-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.7,reported
+1998-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.7,reported
+2003-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.8,reported
+1990-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),96.9,reported
+2003-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.1,reported
+1991-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.1,reported
+1982-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.2,reported
+1985-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.2,reported
+2003-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.3,reported
+1991-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.4,reported
+1991-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.5,reported
+2004-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),97.6,reported
+2003-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.0,reported
+1986-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.1,reported
+1998-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.4,reported
+1991-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.4,reported
+1986-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.6,reported
+1983-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.7,reported
+1976-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),98.7,reported
+1973-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.0,reported
+1990-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.2,reported
+1985-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.3,reported
+1973-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.3,reported
+2002-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.5,reported
+1973-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.7,reported
+1986-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.8,reported
+1978-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.9,reported
+1977-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.9,reported
+1976-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),99.9,reported
+1980-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.0,reported
+1979-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.2,reported
+1990-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.2,reported
+1985-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.3,reported
+1995-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.3,reported
+1991-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.4,reported
+1977-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.4,reported
+1973-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.6,reported
+1978-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.6,reported
+1977-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.6,reported
+1992-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),100.8,reported
+1975-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),101.1,reported
+1977-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),101.4,reported
+2003-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),101.5,reported
+1991-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),101.9,reported
+1995-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),101.9,reported
+1991-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.0,reported
+1978-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.0,reported
+1981-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.2,reported
+1992-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.2,reported
+1988-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.4,reported
+1989-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.4,reported
+1975-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.7,reported
+1986-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.8,reported
+1992-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),102.9,reported
+1979-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.0,reported
+1989-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.1,reported
+1986-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.2,reported
+1993-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.2,reported
+1980-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.8,reported
+1980-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.8,reported
+1982-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),103.9,reported
+1988-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.2,reported
+1979-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.2,reported
+2004-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.3,reported
+1997-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.4,reported
+1994-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.5,reported
+1992-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.6,reported
+1982-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.7,reported
+1982-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),104.8,reported
+1980-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),105.4,reported
+1976-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),105.6,reported
+1996-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),105.6,reported
+2002-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),105.7,reported
+1974-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),105.8,reported
+1980-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),105.9,reported
+1997-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.0,reported
+1997-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.2,reported
+1976-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.2,reported
+1998-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.3,reported
+1988-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.4,reported
+1980-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.5,reported
+1979-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.6,reported
+1997-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.7,reported
+1998-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.7,reported
+1982-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.8,reported
+1982-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.8,reported
+1981-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.8,reported
+1989-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),106.9,reported
+1992-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),107.0,reported
+1974-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),107.6,reported
+1997-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),107.6,reported
+1976-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),107.8,reported
+1997-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),107.9,reported
+1979-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),107.9,reported
+1976-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.2,reported
+1996-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.2,reported
+2006-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.2,reported
+1984-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.3,reported
+1997-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.4,reported
+1995-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.5,reported
+1989-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.7,reported
+1990-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.8,reported
+1992-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.9,reported
+1982-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),108.9,reported
+2004-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.0,reported
+1994-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.0,reported
+1998-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.2,reported
+1979-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.3,reported
+1997-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.5,reported
+1973-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.5,reported
+1995-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),109.9,reported
+1982-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),110.2,reported
+1981-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),110.2,reported
+1997-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),110.4,reported
+2004-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),110.4,reported
+1985-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),110.9,reported
+1985-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.0,reported
+1989-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.1,reported
+1975-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.1,reported
+1976-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.3,reported
+1994-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.4,reported
+1985-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.4,reported
+1979-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.4,reported
+1989-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.6,reported
+1983-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.7,reported
+1984-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.8,reported
+2002-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),111.9,reported
+1984-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.4,reported
+1976-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.4,reported
+1985-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.6,reported
+1990-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.6,reported
+1976-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.6,reported
+1988-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.8,reported
+1975-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.8,reported
+1995-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),112.9,reported
+1989-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.0,reported
+1979-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.0,reported
+1975-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.2,reported
+1975-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.3,reported
+1988-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.4,reported
+1994-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.5,reported
+1985-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.5,reported
+1990-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.5,reported
+1985-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),113.7,reported
+1995-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),114.1,reported
+1988-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),114.4,reported
+1997-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),114.7,reported
+1975-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),114.9,reported
+1974-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),115.0,reported
+1993-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),115.3,reported
+1985-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),115.5,reported
+1988-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),115.5,reported
+1983-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),115.8,reported
+2004-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),116.1,reported
+1975-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),116.2,reported
+1990-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),116.4,reported
+1975-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),116.4,reported
+1974-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),116.6,reported
+2004-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),116.7,reported
+1976-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),117.2,reported
+1996-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),117.3,reported
+1994-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),117.6,reported
+1976-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),118.9,reported
+1997-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),119.2,reported
+1994-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),119.3,reported
+1974-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),119.9,reported
+2020-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),120.2,reported
+1997-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),120.3,reported
+1995-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),120.9,reported
+1974-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),121.3,reported
+1979-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),121.3,reported
+2004-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),121.9,reported
+2016-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),122.1,reported
+2020-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),123.1,reported
+1975-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),123.6,reported
+1980-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),123.8,reported
+1984-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),124.0,reported
+2007-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),124.2,reported
+1975-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),124.5,reported
+2016-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),124.7,reported
+2007-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),124.8,reported
+2017-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),125.2,reported
+2016-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),125.5,reported
+2020-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),126.0,reported
+2007-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),126.0,reported
+2008-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),126.0,reported
+1995-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),126.1,reported
+2017-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),126.7,reported
+1974-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),126.9,reported
+1981-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),127.0,reported
+1983-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),127.1,reported
+2020-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),127.2,reported
+1984-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),127.5,reported
+2017-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),127.7,reported
+2020-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),128.1,reported
+1983-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),128.6,reported
+2017-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),128.8,reported
+2016-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),128.8,reported
+2009-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),130.5,reported
+1983-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),130.6,reported
+1983-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),130.9,reported
+2014-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),131.0,reported
+1984-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),131.3,reported
+2017-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.1,reported
+1983-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.2,reported
+2018-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.2,reported
+1975-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.3,reported
+1984-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.3,reported
+2018-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.7,reported
+1980-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),132.8,reported
+2007-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),133.3,reported
+2018-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),133.6,reported
+1995-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),133.7,reported
+2018-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),133.8,reported
+2007-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),134.6,reported
+2016-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),134.9,reported
+2016-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),135.0,reported
+1973-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),135.2,reported
+1980-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),135.5,reported
+1981-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),135.9,reported
+2009-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),135.9,reported
+2014-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.2,reported
+2006-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.4,reported
+2017-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.5,reported
+1981-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.7,reported
+1981-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.7,reported
+1980-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.8,reported
+2010-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.8,reported
+2007-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),136.9,reported
+2006-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),137.4,reported
+2010-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),137.5,reported
+1980-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),137.6,reported
+2018-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),137.6,reported
+2010-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),137.6,reported
+1981-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),137.9,reported
+2010-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),138.0,reported
+1981-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),138.0,reported
+1980-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),138.1,reported
+1984-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),138.5,reported
+1983-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),138.7,reported
+1974-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),139.3,reported
+2018-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),139.5,reported
+1981-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),139.6,reported
+2009-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),139.8,reported
+2017-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),139.9,reported
+2017-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.0,reported
+1984-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.1,reported
+2014-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.1,reported
+2019-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.3,reported
+2016-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.3,reported
+2020-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.5,reported
+2009-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.5,reported
+2017-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.8,reported
+2019-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),140.9,reported
+2015-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.0,reported
+2019-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.0,reported
+2018-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.1,reported
+1983-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.1,reported
+2016-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.5,reported
+1996-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.7,reported
+1984-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.8,reported
+1983-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.8,reported
+2010-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.9,reported
+2016-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),141.9,reported
+1974-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.2,reported
+2017-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.4,reported
+2010-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.4,reported
+1974-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.8,reported
+1981-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.8,reported
+2014-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.8,reported
+2009-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),142.9,reported
+1984-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),143.1,reported
+2007-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),143.2,reported
+2017-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),143.2,reported
+1983-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),143.5,reported
+2016-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),143.9,reported
+2019-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),144.1,reported
+2009-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),144.4,reported
+2009-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),144.4,reported
+2007-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),144.8,reported
+2008-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),144.9,reported
+2018-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),144.9,reported
+1984-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.1,reported
+2019-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.1,reported
+2015-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.1,reported
+2015-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.1,reported
+2010-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.4,reported
+2018-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.6,reported
+2010-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.7,reported
+1996-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.7,reported
+2016-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),145.9,reported
+2009-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),146.0,reported
+2019-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),146.2,reported
+2015-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),147.2,reported
+2009-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),147.9,reported
+1996-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.1,reported
+2018-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.2,reported
+2014-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.3,reported
+2018-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.4,reported
+2015-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.4,reported
+2015-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.4,reported
+2025-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),148.839,reported
+2015-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),149.5,reported
+2015-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),149.5,reported
+2015-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),149.8,reported
+2019-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),149.9,reported
+2017-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),149.9,reported
+1974-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),150.0,reported
+2009-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),150.1,reported
+1974-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),150.5,reported
+2014-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),150.8,reported
+2019-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),151.0,reported
+2020-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),152.0,reported
+2008-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),152.6,reported
+2015-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),152.8,reported
+2015-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),152.9,reported
+2007-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),153.1,reported
+2019-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),153.3,reported
+2024-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),153.88,reported
+2024-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),154.168,reported
+2018-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),154.2,reported
+2007-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),154.3,reported
+2020-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),154.4,reported
+2020-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),155.3,reported
+2025-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),156.143,reported
+2007-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),156.4,reported
+1996-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),156.4,reported
+2024-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),156.983,reported
+2019-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),157.7,reported
+2020-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),158.1,reported
+2025-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),158.554,reported
+2024-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),161.805,reported
+2026-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),161.882,reported
+2025-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),164.423,reported
+2015-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),165.5,reported
+2007-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),165.7,reported
+2009-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),166.2,reported
+2025-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),166.597,reported
+2020-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),166.6,reported
+2026-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),167.658,reported
+2016-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),168.2,reported
+2024-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),170.315,reported
+2019-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),170.4,reported
+2014-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),170.6,reported
+2020-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),170.7,reported
+2013-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),171.3,reported
+2025-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),171.418,reported
+2024-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),171.503,reported
+2026-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),171.879,reported
+2013-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),172.3,reported
+2010-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),172.9,reported
+2026-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),173.455,reported
+2009-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),173.9,reported
+2024-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),173.929,reported
+2024-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),173.95,reported
+2014-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),174.7,reported
+2013-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),175.4,reported
+2025-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),175.587,reported
+2025-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),176.261,reported
+1996-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),176.5,reported
+2019-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),176.6,reported
+2024-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),178.022,reported
+2014-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),178.8,reported
+2024-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),180.566,reported
+2024-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),182.381,reported
+2025-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),182.834,reported
+2026-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),185.55,reported
+2025-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),185.56,reported
+2024-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),186.974,reported
+2014-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),187.0,reported
+2023-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),188.152,reported
+2023-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),189.092,reported
+2023-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),189.156,reported
+2025-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),189.497,reported
+2008-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),190.2,reported
+2025-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),191.726,reported
+2023-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),192.563,reported
+1996-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),193.2,reported
+2008-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),193.8,reported
+1996-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),196.9,reported
+2014-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),198.5,reported
+2014-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),199.2,reported
+2013-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),201.2,reported
+2008-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),201.4,reported
+1996-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),202.0,reported
+2010-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),202.3,reported
+2008-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),205.4,reported
+2010-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),208.5,reported
+2021-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),209.0,reported
+2023-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),209.29,reported
+1996-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),209.8,reported
+2021-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),210.071,reported
+2008-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),217.8,reported
+2021-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),219.711,reported
+2010-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),221.3,reported
+2021-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),222.8,reported
+2013-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),223.2,reported
+2021-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),224.8,reported
+2021-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),224.813,reported
+2023-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),225.998,reported
+2008-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),228.3,reported
+2008-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),232.1,reported
+2011-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),232.2,reported
+2011-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),237.6,reported
+2021-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),239.5,reported
+2008-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),240.5,reported
+2021-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),241.216,reported
+2022-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),246.086,reported
+2012-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),247.6,reported
+2012-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),249.7,reported
+2011-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),250.9,reported
+2011-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),252.5,reported
+2008-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),256.0,reported
+2011-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),256.4,reported
+2012-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),256.8,reported
+2012-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),258.7,reported
+2021-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),259.263,reported
+2012-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),259.4,reported
+2022-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),260.179,reported
+2011-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),261.3,reported
+2023-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),262.233,reported
+2023-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),262.913,reported
+2013-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),264.7,reported
+2023-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),264.737,reported
+2021-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),265.511,reported
+2012-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),268.2,reported
+2013-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),274.6,reported
+2023-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),275.574,reported
+2022-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),275.639,reported
+2023-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),276.677,reported
+2011-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),278.2,reported
+2013-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),278.3,reported
+2022-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),279.628,reported
+2011-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),279.8,reported
+2022-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),281.492,reported
+2021-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),282.8,reported
+2011-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),283.2,reported
+2022-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),283.299,reported
+2013-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),284.9,reported
+2013-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),286.2,reported
+2023-02-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),286.31,reported
+2011-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),286.7,reported
+2011-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),287.1,reported
+2022-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),290.18,reported
+2012-11-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),292.8,reported
+2012-12-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),293.7,reported
+2013-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),297.5,reported
+2012-10-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),297.7,reported
+2013-01-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),297.8,reported
+2022-03-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),298.016,reported
+2012-07-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),298.4,reported
+2022-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),299.918,reported
+2011-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),301.7,reported
+2012-09-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),310.1,reported
+2021-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),310.7,reported
+2012-08-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),312.3,reported
+2022-04-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),315.84,reported
+2022-05-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),320.415,reported
+2022-06-01,corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),324.617,reported
+1992-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1121.0,reported
+1992-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1124.0,reported
+1992-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1129.0,reported
+1992-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1134.0,reported
+1992-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1135.0,reported
+1992-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1139.0,reported
+1993-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1148.0,reported
+1992-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1149.0,reported
+1992-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1153.0,reported
+1992-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1154.0,reported
+1992-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1158.0,reported
+1993-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1162.0,reported
+1992-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1167.0,reported
+1992-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1167.0,reported
+1993-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1179.0,reported
+1993-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1180.0,reported
+1993-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1187.0,reported
+1993-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1191.0,reported
+1993-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1191.0,reported
+1993-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1192.0,reported
+1993-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1215.0,reported
+1994-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1248.0,reported
+1993-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1254.0,reported
+1993-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1263.0,reported
+1994-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1263.0,reported
+1994-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1268.0,reported
+1994-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1292.0,reported
+1994-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1293.0,reported
+1993-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1321.0,reported
+1994-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1331.0,reported
+1994-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1374.0,reported
+1994-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1396.0,reported
+1994-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1419.0,reported
+1995-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1419.0,reported
+1994-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1422.0,reported
+1994-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1430.0,reported
+1994-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1433.0,reported
+1995-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1439.0,reported
+1995-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1439.0,reported
+1995-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1446.0,reported
+1995-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1447.0,reported
+1995-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1450.0,reported
+1995-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1452.0,reported
+1995-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1453.0,reported
+1995-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1457.0,reported
+1995-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1459.0,reported
+1995-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1463.0,reported
+1996-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1469.0,reported
+1996-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1490.0,reported
+1995-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1499.0,reported
+1996-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1508.0,reported
+1996-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1555.0,reported
+1996-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1573.0,reported
+1996-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1593.0,reported
+1996-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1607.0,reported
+1996-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1619.0,reported
+1996-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1679.0,reported
+1996-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1689.0,reported
+1996-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1694.0,reported
+1996-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1727.0,reported
+1997-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1770.0,reported
+1997-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1827.0,reported
+1997-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1841.0,reported
+1997-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1907.0,reported
+2003-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1916.0,reported
+2003-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1926.0,reported
+2003-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1942.0,reported
+2003-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1949.0,reported
+2004-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1949.0,reported
+2003-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1952.0,reported
+2003-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1956.0,reported
+2003-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1962.0,reported
+1999-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1969.0,reported
+1997-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1971.0,reported
+1999-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1989.0,reported
+2004-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1992.0,reported
+2002-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1992.0,reported
+2002-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1994.0,reported
+2003-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1995.0,reported
+1999-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),1997.0,reported
+2002-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2002.0,reported
+2004-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2002.0,reported
+2004-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2004.0,reported
+1997-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2005.0,reported
+2002-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2006.0,reported
+2003-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2017.0,reported
+1999-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2020.0,reported
+2002-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2023.0,reported
+1999-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2023.0,reported
+2004-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2028.0,reported
+2002-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2028.0,reported
+1999-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2035.0,reported
+2002-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2036.0,reported
+2003-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2040.0,reported
+1999-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2042.0,reported
+2002-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2043.0,reported
+2002-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2046.0,reported
+1999-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2048.0,reported
+2003-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2048.0,reported
+1997-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2052.0,reported
+2004-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2056.0,reported
+1999-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2057.0,reported
+2003-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2063.0,reported
+2002-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2066.0,reported
+1997-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2069.0,reported
+2000-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2070.0,reported
+2001-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2070.0,reported
+2000-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2074.0,reported
+1997-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2076.0,reported
+2000-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2077.0,reported
+2000-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2077.0,reported
+2002-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2080.0,reported
+2000-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2081.0,reported
+2004-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2085.0,reported
+2000-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2088.0,reported
+2000-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2092.0,reported
+2002-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2094.0,reported
+1999-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2097.0,reported
+2004-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2098.0,reported
+1999-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2099.0,reported
+2001-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2100.0,reported
+2001-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2110.0,reported
+1999-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2116.0,reported
+2004-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2119.0,reported
+2004-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2139.0,reported
+2000-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2139.0,reported
+2001-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2148.0,reported
+2001-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2159.0,reported
+2000-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2175.0,reported
+1997-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2184.0,reported
+2001-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2184.0,reported
+2000-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2190.0,reported
+2001-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2192.0,reported
+1998-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2198.0,reported
+2001-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2201.0,reported
+2001-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2209.0,reported
+2004-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2210.0,reported
+2001-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2216.0,reported
+1997-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2217.0,reported
+2000-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2226.0,reported
+2004-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2226.0,reported
+2000-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2227.0,reported
+2001-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2228.0,reported
+1997-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2236.0,reported
+2001-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2238.0,reported
+2005-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2271.0,reported
+2006-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2274.0,reported
+2005-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2289.0,reported
+1998-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2289.0,reported
+2006-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2293.0,reported
+1998-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2296.0,reported
+1998-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2297.0,reported
+1998-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2299.0,reported
+2006-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2303.0,reported
+1998-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2314.0,reported
+2005-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2318.0,reported
+2005-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2321.0,reported
+2006-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2321.0,reported
+1998-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2324.0,reported
+1998-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2329.0,reported
+1998-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2331.0,reported
+2005-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2332.0,reported
+1998-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2336.0,reported
+1998-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2341.0,reported
+1998-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2342.0,reported
+2005-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2345.0,reported
+2005-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2359.0,reported
+2005-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2365.0,reported
+2005-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2373.0,reported
+2005-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2379.0,reported
+2005-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2389.0,reported
+2005-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2392.0,reported
+2006-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2393.0,reported
+2006-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2444.0,reported
+2010-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2455.0,reported
+2010-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2457.0,reported
+2007-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2473.0,reported
+2006-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2481.0,reported
+2010-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2496.0,reported
+2009-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2502.0,reported
+2010-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2510.0,reported
+2009-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2522.0,reported
+2007-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2534.0,reported
+2006-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2540.0,reported
+2006-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2541.0,reported
+2007-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2557.0,reported
+2007-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2573.0,reported
+2007-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2579.0,reported
+2006-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2589.0,reported
+2006-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2592.0,reported
+2007-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2593.0,reported
+2010-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2597.0,reported
+2006-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2608.0,reported
+2009-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2619.0,reported
+2007-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2624.0,reported
+2007-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2646.0,reported
+2007-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2649.0,reported
+2010-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2655.0,reported
+2010-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2656.0,reported
+2007-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2662.0,reported
+2010-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2674.0,reported
+2007-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2678.0,reported
+2009-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2690.0,reported
+2010-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2738.0,reported
+2007-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2747.0,reported
+2009-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2750.0,reported
+2009-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2758.0,reported
+2008-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2767.0,reported
+2010-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2773.0,reported
+2010-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2791.0,reported
+2010-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2793.0,reported
+2008-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2798.0,reported
+2008-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2811.0,reported
+2008-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2819.0,reported
+2008-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2852.0,reported
+2008-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2853.0,reported
+2008-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2864.0,reported
+2009-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2872.0,reported
+2008-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2907.0,reported
+2009-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2942.0,reported
+2011-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2942.0,reported
+2011-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2970.0,reported
+2008-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),2978.0,reported
+2008-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3006.0,reported
+2011-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3026.0,reported
+2009-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3036.0,reported
+2011-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3038.0,reported
+2011-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3086.0,reported
+2011-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3128.0,reported
+2009-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3130.0,reported
+2016-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3174.0,reported
+2009-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3174.0,reported
+2008-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3177.0,reported
+2011-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3188.0,reported
+2011-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3189.0,reported
+2011-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3216.0,reported
+2016-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3221.0,reported
+2016-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3221.0,reported
+2016-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3222.0,reported
+2009-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3223.0,reported
+2016-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3229.0,reported
+2008-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3265.0,reported
+2011-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3266.0,reported
+2016-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3271.0,reported
+2011-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3302.0,reported
+2011-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3306.0,reported
+2016-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3324.0,reported
+2017-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3358.0,reported
+2016-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3366.0,reported
+2012-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3368.0,reported
+2017-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3372.0,reported
+2017-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3421.0,reported
+2012-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3440.0,reported
+2017-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3440.0,reported
+2016-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3443.0,reported
+2016-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3443.0,reported
+2017-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3459.0,reported
+2017-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3462.0,reported
+2017-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3471.0,reported
+2017-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3499.0,reported
+2017-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3499.0,reported
+2012-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3509.0,reported
+2017-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3511.0,reported
+2012-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3524.0,reported
+2018-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3534.0,reported
+2016-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3550.0,reported
+2012-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3554.0,reported
+2012-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3555.0,reported
+2012-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3556.0,reported
+2016-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3561.0,reported
+2018-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3585.0,reported
+2017-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3595.0,reported
+2012-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3605.0,reported
+2017-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3611.0,reported
+2018-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3611.0,reported
+2018-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3627.0,reported
+2020-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3631.0,reported
+2020-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3631.0,reported
+2015-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3632.0,reported
+2018-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3635.0,reported
+2018-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3643.0,reported
+2012-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3657.0,reported
+2015-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3658.0,reported
+2012-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3668.0,reported
+2018-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3669.0,reported
+2015-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3681.0,reported
+2020-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3686.0,reported
+2020-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3693.0,reported
+2015-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3695.0,reported
+2020-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3716.0,reported
+2013-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3716.0,reported
+2012-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3722.0,reported
+2020-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3724.0,reported
+2012-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3724.0,reported
+2020-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3749.0,reported
+2013-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3752.0,reported
+2015-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3765.0,reported
+2020-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3770.0,reported
+2015-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3777.0,reported
+2013-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3785.0,reported
+2018-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3789.0,reported
+2020-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3791.0,reported
+2015-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3798.0,reported
+2013-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3803.0,reported
+2013-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3807.0,reported
+2013-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3814.0,reported
+2020-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3814.0,reported
+2015-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3828.0,reported
+2020-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3831.0,reported
+2020-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3846.0,reported
+2018-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3850.0,reported
+2014-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3852.0,reported
+2015-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3858.0,reported
+2015-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3864.0,reported
+2013-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3873.0,reported
+2013-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3874.0,reported
+2019-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3880.0,reported
+2021-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3883.0,reported
+2015-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3884.0,reported
+2014-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3886.0,reported
+2013-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3898.0,reported
+2019-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3914.0,reported
+2018-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3915.0,reported
+2015-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3915.0,reported
+2019-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3926.0,reported
+2014-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3928.0,reported
+2019-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3943.0,reported
+2013-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3953.0,reported
+2021-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),3995.0,reported
+2018-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4007.0,reported
+2014-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4042.0,reported
+2014-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4044.0,reported
+2013-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4045.0,reported
+2014-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4046.0,reported
+2021-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4073.0,reported
+2021-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4092.0,reported
+2021-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4094.0,reported
+2019-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4097.0,reported
+2013-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4099.0,reported
+2019-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4103.0,reported
+2019-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4106.0,reported
+2019-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4107.0,reported
+2014-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4108.0,reported
+2019-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4135.0,reported
+2019-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4139.0,reported
+2018-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4139.0,reported
+2019-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4160.0,reported
+2014-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4167.0,reported
+2014-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4215.0,reported
+2014-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4216.0,reported
+2019-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4251.0,reported
+2021-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4265.0,reported
+2014-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4316.0,reported
+2014-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4336.0,reported
+2021-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4589.0,reported
+2021-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4818.0,reported
+2021-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),4986.0,reported
+2021-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5171.0,reported
+2021-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5478.0,reported
+2025-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5597.0,reported
+2026-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5601.0,reported
+2025-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5634.0,reported
+2025-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5637.0,reported
+2026-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5644.0,reported
+2025-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5650.0,reported
+2026-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5652.0,reported
+2025-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5659.0,reported
+2025-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5675.0,reported
+2026-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5676.0,reported
+2021-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5682.0,reported
+2025-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5696.0,reported
+2025-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5698.0,reported
+2025-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5700.0,reported
+2025-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5704.0,reported
+2025-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5707.0,reported
+2025-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5823.0,reported
+2024-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5842.0,reported
+2024-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5868.0,reported
+2024-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5929.0,reported
+2022-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5942.0,reported
+2024-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),5988.0,reported
+2024-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6057.0,reported
+2022-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6118.0,reported
+2024-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6119.0,reported
+2024-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6147.0,reported
+2024-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6232.0,reported
+2022-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6344.0,reported
+2024-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6385.0,reported
+2024-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6439.0,reported
+2023-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6472.0,reported
+2024-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6487.0,reported
+2024-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6506.0,reported
+2023-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6580.0,reported
+2023-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6645.0,reported
+2023-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6649.0,reported
+2022-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6659.0,reported
+2023-04-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6740.0,reported
+2022-11-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6746.0,reported
+2022-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6750.0,reported
+2023-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6753.0,reported
+2023-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6767.0,reported
+2022-05-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6789.0,reported
+2023-06-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6810.0,reported
+2022-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6832.0,reported
+2023-07-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6838.0,reported
+2022-12-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6849.0,reported
+2023-02-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6881.0,reported
+2023-03-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6893.0,reported
+2023-01-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),6960.0,reported
+2022-08-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),7010.0,reported
+2022-09-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),7134.0,reported
+2022-10-01,inventory,Farm Machinery & Equip. Inventories,USD millions (SA),7225.0,reported
+1992-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),524.0,reported
+1992-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),562.0,reported
+1992-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),564.0,reported
+1992-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),566.0,reported
+1992-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),579.0,reported
+1992-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),582.0,reported
+1992-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),613.0,reported
+1992-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),618.0,reported
+1992-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),627.0,reported
+1992-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),628.0,reported
+1992-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),628.0,reported
+1993-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),630.0,reported
+1993-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),639.0,reported
+1993-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),647.0,reported
+1993-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),685.0,reported
+1993-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),694.0,reported
+1993-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),710.0,reported
+1994-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),715.0,reported
+1993-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),716.0,reported
+1993-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),718.0,reported
+1993-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),732.0,reported
+1994-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),750.0,reported
+1993-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),752.0,reported
+1992-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),761.0,reported
+1993-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),764.0,reported
+1994-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),764.0,reported
+1996-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),772.0,reported
+1994-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),776.0,reported
+1994-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),786.0,reported
+1993-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),796.0,reported
+1994-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),812.0,reported
+1994-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),819.0,reported
+1994-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),820.0,reported
+1996-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),825.0,reported
+1994-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),826.0,reported
+1995-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),830.0,reported
+1996-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),837.0,reported
+1995-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),838.0,reported
+1995-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),839.0,reported
+1994-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),839.0,reported
+1995-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),842.0,reported
+1994-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),846.0,reported
+1995-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),848.0,reported
+1996-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),851.0,reported
+1995-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),851.0,reported
+1995-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),854.0,reported
+1995-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),856.0,reported
+1999-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),863.0,reported
+1995-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),876.0,reported
+1996-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),877.0,reported
+1996-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),890.0,reported
+1996-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),891.0,reported
+1994-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),892.0,reported
+1999-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),895.0,reported
+1999-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),897.0,reported
+1995-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),898.0,reported
+1999-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),907.0,reported
+1999-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),907.0,reported
+1995-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),909.0,reported
+1996-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),915.0,reported
+1999-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),923.0,reported
+2001-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),957.0,reported
+1996-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),965.0,reported
+1999-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),967.0,reported
+1995-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),982.0,reported
+1996-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1001.0,reported
+1999-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1007.0,reported
+1996-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1010.0,reported
+2000-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1045.0,reported
+2000-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1050.0,reported
+2000-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1055.0,reported
+1999-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1058.0,reported
+2000-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1073.0,reported
+1999-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1085.0,reported
+1999-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1088.0,reported
+1997-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1091.0,reported
+2001-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1093.0,reported
+2000-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1094.0,reported
+1997-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1096.0,reported
+2000-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1098.0,reported
+1998-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1104.0,reported
+2002-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1120.0,reported
+2000-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1127.0,reported
+1998-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1133.0,reported
+2000-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1144.0,reported
+2001-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1148.0,reported
+1999-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1151.0,reported
+2001-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1154.0,reported
+1997-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1175.0,reported
+2002-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1180.0,reported
+2000-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1181.0,reported
+2002-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1181.0,reported
+2000-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1183.0,reported
+2000-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1185.0,reported
+2001-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1186.0,reported
+2001-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1187.0,reported
+2001-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1187.0,reported
+2000-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1194.0,reported
+2002-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1195.0,reported
+2001-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1195.0,reported
+1996-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1204.0,reported
+1998-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1206.0,reported
+2002-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1210.0,reported
+2003-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1225.0,reported
+2001-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1228.0,reported
+2002-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1229.0,reported
+2002-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1230.0,reported
+2003-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1234.0,reported
+2001-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1235.0,reported
+1997-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1235.0,reported
+2001-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1245.0,reported
+2002-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1262.0,reported
+1998-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1273.0,reported
+2003-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1274.0,reported
+2003-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1274.0,reported
+2004-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1278.0,reported
+2003-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1281.0,reported
+1997-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1291.0,reported
+1998-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1293.0,reported
+2003-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1296.0,reported
+2002-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1300.0,reported
+2003-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1301.0,reported
+2003-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1310.0,reported
+2002-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1316.0,reported
+2003-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1320.0,reported
+2002-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1324.0,reported
+2003-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1325.0,reported
+2001-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1331.0,reported
+2004-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1334.0,reported
+2002-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1339.0,reported
+2003-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1349.0,reported
+2003-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1353.0,reported
+1997-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1354.0,reported
+1998-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1356.0,reported
+2004-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1378.0,reported
+2004-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1380.0,reported
+1997-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1394.0,reported
+2006-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1426.0,reported
+2004-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1426.0,reported
+2004-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1430.0,reported
+2004-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1432.0,reported
+1997-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1471.0,reported
+1997-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1473.0,reported
+1998-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1479.0,reported
+1998-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1480.0,reported
+1998-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1480.0,reported
+1998-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1491.0,reported
+1997-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1497.0,reported
+1998-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1504.0,reported
+2006-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1514.0,reported
+2004-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1519.0,reported
+1998-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1540.0,reported
+1997-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1541.0,reported
+2005-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1547.0,reported
+2006-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1557.0,reported
+1997-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1569.0,reported
+2004-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1579.0,reported
+2005-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1590.0,reported
+2004-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1596.0,reported
+2005-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1616.0,reported
+2005-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1619.0,reported
+2011-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1630.0,reported
+2006-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1648.0,reported
+2005-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1651.0,reported
+2006-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1655.0,reported
+2009-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1665.0,reported
+2006-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1666.0,reported
+2006-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1666.0,reported
+2006-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1676.0,reported
+2005-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1676.0,reported
+2007-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1683.0,reported
+2004-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1683.0,reported
+2005-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1690.0,reported
+2011-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1691.0,reported
+2005-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1697.0,reported
+2007-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1705.0,reported
+2006-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1708.0,reported
+2010-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1711.0,reported
+2011-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1711.0,reported
+2009-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1712.0,reported
+2009-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1715.0,reported
+2009-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1716.0,reported
+2011-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1716.0,reported
+2005-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1724.0,reported
+2005-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1725.0,reported
+2006-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1728.0,reported
+2007-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1730.0,reported
+2008-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1736.0,reported
+2005-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1740.0,reported
+2007-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1747.0,reported
+2004-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1753.0,reported
+2006-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1756.0,reported
+2007-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1758.0,reported
+2009-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1774.0,reported
+2007-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1785.0,reported
+2010-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1789.0,reported
+2007-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1793.0,reported
+2007-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1807.0,reported
+2006-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1814.0,reported
+2010-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1827.0,reported
+2010-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1834.0,reported
+2008-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1834.0,reported
+2005-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1834.0,reported
+2008-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1845.0,reported
+2010-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1850.0,reported
+2009-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1851.0,reported
+2010-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1852.0,reported
+2010-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1860.0,reported
+2011-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1861.0,reported
+2009-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1868.0,reported
+2008-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1876.0,reported
+2016-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1884.0,reported
+2009-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1888.0,reported
+2007-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1900.0,reported
+2008-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1905.0,reported
+2016-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1908.0,reported
+2016-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1922.0,reported
+2007-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1928.0,reported
+2007-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1934.0,reported
+2009-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1936.0,reported
+2010-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1938.0,reported
+2010-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1939.0,reported
+2011-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1948.0,reported
+2016-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1949.0,reported
+2016-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1951.0,reported
+2017-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1957.0,reported
+2007-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1966.0,reported
+2009-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1969.0,reported
+2016-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1975.0,reported
+2017-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),1991.0,reported
+2017-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2014.0,reported
+2009-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2019.0,reported
+2017-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2020.0,reported
+2008-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2022.0,reported
+2017-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2031.0,reported
+2016-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2031.0,reported
+2016-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2033.0,reported
+2020-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2045.0,reported
+2017-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2063.0,reported
+2017-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2067.0,reported
+2017-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2079.0,reported
+2017-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2092.0,reported
+2008-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2095.0,reported
+2008-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2105.0,reported
+2016-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2110.0,reported
+2010-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2113.0,reported
+2016-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2114.0,reported
+2020-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2117.0,reported
+2016-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2118.0,reported
+2016-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2125.0,reported
+2017-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2162.0,reported
+2017-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2166.0,reported
+2015-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2168.0,reported
+2009-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2179.0,reported
+2010-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2179.0,reported
+2010-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2194.0,reported
+2008-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2202.0,reported
+2018-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2207.0,reported
+2008-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2213.0,reported
+2015-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2215.0,reported
+2018-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2219.0,reported
+2015-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2242.0,reported
+2017-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2243.0,reported
+2018-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2284.0,reported
+2008-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2291.0,reported
+2020-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2291.0,reported
+2018-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2300.0,reported
+2013-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2305.0,reported
+2020-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2315.0,reported
+2020-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2316.0,reported
+2018-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2316.0,reported
+2013-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2325.0,reported
+2011-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2336.0,reported
+2019-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2357.0,reported
+2025-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2392.0,reported
+2020-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2413.0,reported
+2019-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2414.0,reported
+2011-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2424.0,reported
+2018-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2424.0,reported
+2011-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2434.0,reported
+2018-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2438.0,reported
+2019-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2444.0,reported
+2019-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2458.0,reported
+2015-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2461.0,reported
+2012-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2470.0,reported
+2025-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2470.0,reported
+2025-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2477.0,reported
+2019-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2484.0,reported
+2026-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2484.0,reported
+2014-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2488.0,reported
+2008-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2497.0,reported
+2019-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2502.0,reported
+2018-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2506.0,reported
+2012-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2515.0,reported
+2018-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2517.0,reported
+2025-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2522.0,reported
+2011-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2525.0,reported
+2026-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2526.0,reported
+2018-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2527.0,reported
+2011-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2539.0,reported
+2018-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2545.0,reported
+2020-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2549.0,reported
+2025-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2557.0,reported
+2026-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2559.0,reported
+2019-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2571.0,reported
+2015-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2582.0,reported
+2025-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2602.0,reported
+2018-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2610.0,reported
+2026-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2611.0,reported
+2019-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2614.0,reported
+2025-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2619.0,reported
+2025-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2620.0,reported
+2015-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2621.0,reported
+2025-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2628.0,reported
+2014-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2628.0,reported
+2025-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2630.0,reported
+2025-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2634.0,reported
+2013-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2641.0,reported
+2024-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2648.0,reported
+2015-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2649.0,reported
+2019-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2670.0,reported
+2025-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2672.0,reported
+2015-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2684.0,reported
+2012-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2689.0,reported
+2012-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2694.0,reported
+2015-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2700.0,reported
+2023-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2712.0,reported
+2020-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2718.0,reported
+2024-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2729.0,reported
+2014-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2743.0,reported
+2019-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2746.0,reported
+2024-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2755.0,reported
+2024-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2773.0,reported
+2019-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2781.0,reported
+2020-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2783.0,reported
+2021-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2788.0,reported
+2023-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2789.0,reported
+2012-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2801.0,reported
+2019-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2803.0,reported
+2023-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2815.0,reported
+2015-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2815.0,reported
+2023-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2832.0,reported
+2015-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2838.0,reported
+2012-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2847.0,reported
+2020-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2871.0,reported
+2020-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2875.0,reported
+2015-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2886.0,reported
+2012-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2902.0,reported
+2012-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2907.0,reported
+2021-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2911.0,reported
+2021-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2923.0,reported
+2023-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2950.0,reported
+2020-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2955.0,reported
+2023-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2957.0,reported
+2013-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2960.0,reported
+2013-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2966.0,reported
+2012-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2973.0,reported
+2023-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2982.0,reported
+2021-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2983.0,reported
+2021-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2985.0,reported
+2014-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2987.0,reported
+2023-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2995.0,reported
+2023-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),2997.0,reported
+2024-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3001.0,reported
+2021-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3008.0,reported
+2014-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3011.0,reported
+2024-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3018.0,reported
+2021-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3024.0,reported
+2024-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3024.0,reported
+2023-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3059.0,reported
+2014-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3059.0,reported
+2021-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3059.0,reported
+2024-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3066.0,reported
+2021-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3106.0,reported
+2023-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3109.0,reported
+2022-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3119.0,reported
+2024-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3136.0,reported
+2012-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3137.0,reported
+2012-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3143.0,reported
+2023-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3144.0,reported
+2013-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3184.0,reported
+2012-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3189.0,reported
+2013-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3191.0,reported
+2011-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3194.0,reported
+2024-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3197.0,reported
+2013-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3259.0,reported
+2014-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3293.0,reported
+2014-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3341.0,reported
+2024-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3342.0,reported
+2022-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3359.0,reported
+2022-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3366.0,reported
+2021-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3384.0,reported
+2022-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3401.0,reported
+2022-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3444.0,reported
+2021-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3445.0,reported
+2014-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3464.0,reported
+2013-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3481.0,reported
+2024-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3492.0,reported
+2013-02-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3500.0,reported
+2022-03-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3599.0,reported
+2022-04-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3651.0,reported
+2022-01-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3686.0,reported
+2022-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3691.0,reported
+2022-05-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3742.0,reported
+2022-07-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3754.0,reported
+2022-06-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3851.0,reported
+2014-09-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3903.0,reported
+2021-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),3962.0,reported
+2014-10-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),4006.0,reported
+2014-08-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),4125.0,reported
+2013-12-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),4508.0,reported
+2013-11-01,shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),4881.0,reported
+2020-04-01,fed_funds,Federal Funds Effective Rate,percent,0.05,reported
+2020-05-01,fed_funds,Federal Funds Effective Rate,percent,0.05,reported
+2021-05-01,fed_funds,Federal Funds Effective Rate,percent,0.06,reported
+2014-02-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2021-04-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2011-10-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2011-12-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2014-01-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2011-07-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2021-03-01,fed_funds,Federal Funds Effective Rate,percent,0.07,reported
+2021-12-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2013-08-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2013-11-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2013-09-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2021-06-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2021-11-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2022-02-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2011-09-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2011-11-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2021-10-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2012-01-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2022-01-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2020-06-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2021-02-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2014-03-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2021-09-01,fed_funds,Federal Funds Effective Rate,percent,0.08,reported
+2020-07-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2021-01-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2021-08-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-08-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2013-10-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2013-06-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-09-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2020-10-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-10-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-11-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-05-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2020-11-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2013-12-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2011-05-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2020-09-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-04-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2020-12-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-07-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2011-06-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2013-07-01,fed_funds,Federal Funds Effective Rate,percent,0.09,reported
+2014-06-01,fed_funds,Federal Funds Effective Rate,percent,0.1,reported
+2011-04-01,fed_funds,Federal Funds Effective Rate,percent,0.1,reported
+2011-08-01,fed_funds,Federal Funds Effective Rate,percent,0.1,reported
+2012-02-01,fed_funds,Federal Funds Effective Rate,percent,0.1,reported
+2020-08-01,fed_funds,Federal Funds Effective Rate,percent,0.1,reported
+2021-07-01,fed_funds,Federal Funds Effective Rate,percent,0.1,reported
+2013-05-01,fed_funds,Federal Funds Effective Rate,percent,0.11,reported
+2015-03-01,fed_funds,Federal Funds Effective Rate,percent,0.11,reported
+2015-02-01,fed_funds,Federal Funds Effective Rate,percent,0.11,reported
+2015-01-01,fed_funds,Federal Funds Effective Rate,percent,0.11,reported
+2010-01-01,fed_funds,Federal Funds Effective Rate,percent,0.11,reported
+2014-12-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2015-04-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2015-11-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2009-11-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2015-10-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2009-12-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2009-10-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2015-05-01,fed_funds,Federal Funds Effective Rate,percent,0.12,reported
+2010-02-01,fed_funds,Federal Funds Effective Rate,percent,0.13,reported
+2012-03-01,fed_funds,Federal Funds Effective Rate,percent,0.13,reported
+2015-07-01,fed_funds,Federal Funds Effective Rate,percent,0.13,reported
+2012-08-01,fed_funds,Federal Funds Effective Rate,percent,0.13,reported
+2015-06-01,fed_funds,Federal Funds Effective Rate,percent,0.13,reported
+2012-04-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2011-03-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2013-03-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2012-09-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2013-01-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2015-09-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2015-08-01,fed_funds,Federal Funds Effective Rate,percent,0.14,reported
+2009-09-01,fed_funds,Federal Funds Effective Rate,percent,0.15,reported
+2009-01-01,fed_funds,Federal Funds Effective Rate,percent,0.15,reported
+2009-04-01,fed_funds,Federal Funds Effective Rate,percent,0.15,reported
+2013-04-01,fed_funds,Federal Funds Effective Rate,percent,0.15,reported
+2013-02-01,fed_funds,Federal Funds Effective Rate,percent,0.15,reported
+2009-07-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2012-10-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2012-07-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2008-12-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2012-05-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2012-12-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2012-06-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2012-11-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2009-08-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2010-03-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2011-02-01,fed_funds,Federal Funds Effective Rate,percent,0.16,reported
+2011-01-01,fed_funds,Federal Funds Effective Rate,percent,0.17,reported
+2010-06-01,fed_funds,Federal Funds Effective Rate,percent,0.18,reported
+2010-12-01,fed_funds,Federal Funds Effective Rate,percent,0.18,reported
+2009-05-01,fed_funds,Federal Funds Effective Rate,percent,0.18,reported
+2009-03-01,fed_funds,Federal Funds Effective Rate,percent,0.18,reported
+2010-07-01,fed_funds,Federal Funds Effective Rate,percent,0.18,reported
+2010-11-01,fed_funds,Federal Funds Effective Rate,percent,0.19,reported
+2010-08-01,fed_funds,Federal Funds Effective Rate,percent,0.19,reported
+2010-10-01,fed_funds,Federal Funds Effective Rate,percent,0.19,reported
+2010-09-01,fed_funds,Federal Funds Effective Rate,percent,0.19,reported
+2022-03-01,fed_funds,Federal Funds Effective Rate,percent,0.2,reported
+2010-05-01,fed_funds,Federal Funds Effective Rate,percent,0.2,reported
+2010-04-01,fed_funds,Federal Funds Effective Rate,percent,0.2,reported
+2009-06-01,fed_funds,Federal Funds Effective Rate,percent,0.21,reported
+2009-02-01,fed_funds,Federal Funds Effective Rate,percent,0.22,reported
+2015-12-01,fed_funds,Federal Funds Effective Rate,percent,0.24,reported
+2022-04-01,fed_funds,Federal Funds Effective Rate,percent,0.33,reported
+2016-01-01,fed_funds,Federal Funds Effective Rate,percent,0.34,reported
+2016-03-01,fed_funds,Federal Funds Effective Rate,percent,0.36,reported
+2016-05-01,fed_funds,Federal Funds Effective Rate,percent,0.37,reported
+2016-04-01,fed_funds,Federal Funds Effective Rate,percent,0.37,reported
+2016-06-01,fed_funds,Federal Funds Effective Rate,percent,0.38,reported
+2016-02-01,fed_funds,Federal Funds Effective Rate,percent,0.38,reported
+2016-07-01,fed_funds,Federal Funds Effective Rate,percent,0.39,reported
+2008-11-01,fed_funds,Federal Funds Effective Rate,percent,0.39,reported
+2016-09-01,fed_funds,Federal Funds Effective Rate,percent,0.4,reported
+2016-10-01,fed_funds,Federal Funds Effective Rate,percent,0.4,reported
+2016-08-01,fed_funds,Federal Funds Effective Rate,percent,0.4,reported
+2016-11-01,fed_funds,Federal Funds Effective Rate,percent,0.41,reported
+2016-12-01,fed_funds,Federal Funds Effective Rate,percent,0.54,reported
+1958-05-01,fed_funds,Federal Funds Effective Rate,percent,0.63,reported
+2017-01-01,fed_funds,Federal Funds Effective Rate,percent,0.65,reported
+2020-03-01,fed_funds,Federal Funds Effective Rate,percent,0.65,reported
+2017-02-01,fed_funds,Federal Funds Effective Rate,percent,0.66,reported
+1958-07-01,fed_funds,Federal Funds Effective Rate,percent,0.68,reported
+2022-05-01,fed_funds,Federal Funds Effective Rate,percent,0.77,reported
+2017-03-01,fed_funds,Federal Funds Effective Rate,percent,0.79,reported
+1954-07-01,fed_funds,Federal Funds Effective Rate,percent,0.8,reported
+1954-11-01,fed_funds,Federal Funds Effective Rate,percent,0.83,reported
+1954-10-01,fed_funds,Federal Funds Effective Rate,percent,0.85,reported
+2017-04-01,fed_funds,Federal Funds Effective Rate,percent,0.9,reported
+2017-05-01,fed_funds,Federal Funds Effective Rate,percent,0.91,reported
+1958-06-01,fed_funds,Federal Funds Effective Rate,percent,0.93,reported
+2008-10-01,fed_funds,Federal Funds Effective Rate,percent,0.97,reported
+2003-12-01,fed_funds,Federal Funds Effective Rate,percent,0.98,reported
+2004-05-01,fed_funds,Federal Funds Effective Rate,percent,1.0,reported
+2004-01-01,fed_funds,Federal Funds Effective Rate,percent,1.0,reported
+2004-04-01,fed_funds,Federal Funds Effective Rate,percent,1.0,reported
+2003-11-01,fed_funds,Federal Funds Effective Rate,percent,1.0,reported
+2004-03-01,fed_funds,Federal Funds Effective Rate,percent,1.0,reported
+2003-07-01,fed_funds,Federal Funds Effective Rate,percent,1.01,reported
+2003-10-01,fed_funds,Federal Funds Effective Rate,percent,1.01,reported
+2003-09-01,fed_funds,Federal Funds Effective Rate,percent,1.01,reported
+2004-02-01,fed_funds,Federal Funds Effective Rate,percent,1.01,reported
+2003-08-01,fed_funds,Federal Funds Effective Rate,percent,1.03,reported
+2004-06-01,fed_funds,Federal Funds Effective Rate,percent,1.03,reported
+2017-06-01,fed_funds,Federal Funds Effective Rate,percent,1.04,reported
+1954-09-01,fed_funds,Federal Funds Effective Rate,percent,1.07,reported
+2017-10-01,fed_funds,Federal Funds Effective Rate,percent,1.15,reported
+2017-09-01,fed_funds,Federal Funds Effective Rate,percent,1.15,reported
+2017-07-01,fed_funds,Federal Funds Effective Rate,percent,1.15,reported
+2017-11-01,fed_funds,Federal Funds Effective Rate,percent,1.16,reported
+2017-08-01,fed_funds,Federal Funds Effective Rate,percent,1.16,reported
+1961-07-01,fed_funds,Federal Funds Effective Rate,percent,1.17,reported
+1958-03-01,fed_funds,Federal Funds Effective Rate,percent,1.2,reported
+2022-06-01,fed_funds,Federal Funds Effective Rate,percent,1.21,reported
+1954-08-01,fed_funds,Federal Funds Effective Rate,percent,1.22,reported
+2003-06-01,fed_funds,Federal Funds Effective Rate,percent,1.22,reported
+2003-01-01,fed_funds,Federal Funds Effective Rate,percent,1.24,reported
+2002-12-01,fed_funds,Federal Funds Effective Rate,percent,1.24,reported
+2003-03-01,fed_funds,Federal Funds Effective Rate,percent,1.25,reported
+2003-04-01,fed_funds,Federal Funds Effective Rate,percent,1.26,reported
+2003-02-01,fed_funds,Federal Funds Effective Rate,percent,1.26,reported
+1958-04-01,fed_funds,Federal Funds Effective Rate,percent,1.26,reported
+2003-05-01,fed_funds,Federal Funds Effective Rate,percent,1.26,reported
+2004-07-01,fed_funds,Federal Funds Effective Rate,percent,1.26,reported
+1954-12-01,fed_funds,Federal Funds Effective Rate,percent,1.28,reported
+1955-02-01,fed_funds,Federal Funds Effective Rate,percent,1.29,reported
+2017-12-01,fed_funds,Federal Funds Effective Rate,percent,1.3,reported
+2002-11-01,fed_funds,Federal Funds Effective Rate,percent,1.34,reported
+1955-03-01,fed_funds,Federal Funds Effective Rate,percent,1.35,reported
+1955-01-01,fed_funds,Federal Funds Effective Rate,percent,1.39,reported
+2018-01-01,fed_funds,Federal Funds Effective Rate,percent,1.41,reported
+2018-02-01,fed_funds,Federal Funds Effective Rate,percent,1.42,reported
+2004-08-01,fed_funds,Federal Funds Effective Rate,percent,1.43,reported
+1955-05-01,fed_funds,Federal Funds Effective Rate,percent,1.43,reported
+1955-04-01,fed_funds,Federal Funds Effective Rate,percent,1.43,reported
+1961-01-01,fed_funds,Federal Funds Effective Rate,percent,1.45,reported
+1961-04-01,fed_funds,Federal Funds Effective Rate,percent,1.49,reported
+2018-03-01,fed_funds,Federal Funds Effective Rate,percent,1.51,reported
+1958-08-01,fed_funds,Federal Funds Effective Rate,percent,1.53,reported
+2019-12-01,fed_funds,Federal Funds Effective Rate,percent,1.55,reported
+2019-11-01,fed_funds,Federal Funds Effective Rate,percent,1.55,reported
+2020-01-01,fed_funds,Federal Funds Effective Rate,percent,1.55,reported
+2020-02-01,fed_funds,Federal Funds Effective Rate,percent,1.58,reported
+2004-09-01,fed_funds,Federal Funds Effective Rate,percent,1.61,reported
+1955-06-01,fed_funds,Federal Funds Effective Rate,percent,1.64,reported
+1958-02-01,fed_funds,Federal Funds Effective Rate,percent,1.67,reported
+2022-07-01,fed_funds,Federal Funds Effective Rate,percent,1.68,reported
+1955-07-01,fed_funds,Federal Funds Effective Rate,percent,1.68,reported
+2018-04-01,fed_funds,Federal Funds Effective Rate,percent,1.69,reported
+2018-05-01,fed_funds,Federal Funds Effective Rate,percent,1.7,reported
+2002-03-01,fed_funds,Federal Funds Effective Rate,percent,1.73,reported
+2002-01-01,fed_funds,Federal Funds Effective Rate,percent,1.73,reported
+1961-06-01,fed_funds,Federal Funds Effective Rate,percent,1.73,reported
+2002-07-01,fed_funds,Federal Funds Effective Rate,percent,1.73,reported
+2002-08-01,fed_funds,Federal Funds Effective Rate,percent,1.74,reported
+2002-02-01,fed_funds,Federal Funds Effective Rate,percent,1.74,reported
+2002-05-01,fed_funds,Federal Funds Effective Rate,percent,1.75,reported
+2002-06-01,fed_funds,Federal Funds Effective Rate,percent,1.75,reported
+2002-10-01,fed_funds,Federal Funds Effective Rate,percent,1.75,reported
+2002-04-01,fed_funds,Federal Funds Effective Rate,percent,1.75,reported
+2002-09-01,fed_funds,Federal Funds Effective Rate,percent,1.75,reported
+2004-10-01,fed_funds,Federal Funds Effective Rate,percent,1.76,reported
+1958-09-01,fed_funds,Federal Funds Effective Rate,percent,1.76,reported
+1958-10-01,fed_funds,Federal Funds Effective Rate,percent,1.8,reported
+2008-09-01,fed_funds,Federal Funds Effective Rate,percent,1.81,reported
+2001-12-01,fed_funds,Federal Funds Effective Rate,percent,1.82,reported
+2018-06-01,fed_funds,Federal Funds Effective Rate,percent,1.82,reported
+2019-10-01,fed_funds,Federal Funds Effective Rate,percent,1.83,reported
+1961-09-01,fed_funds,Federal Funds Effective Rate,percent,1.88,reported
+2018-08-01,fed_funds,Federal Funds Effective Rate,percent,1.91,reported
+2018-07-01,fed_funds,Federal Funds Effective Rate,percent,1.91,reported
+2004-11-01,fed_funds,Federal Funds Effective Rate,percent,1.93,reported
+2018-09-01,fed_funds,Federal Funds Effective Rate,percent,1.95,reported
+1955-08-01,fed_funds,Federal Funds Effective Rate,percent,1.96,reported
+1961-05-01,fed_funds,Federal Funds Effective Rate,percent,1.98,reported
+2008-05-01,fed_funds,Federal Funds Effective Rate,percent,1.98,reported
+1960-12-01,fed_funds,Federal Funds Effective Rate,percent,1.98,reported
+2008-06-01,fed_funds,Federal Funds Effective Rate,percent,2.0,reported
+1961-08-01,fed_funds,Federal Funds Effective Rate,percent,2.0,reported
+2008-08-01,fed_funds,Federal Funds Effective Rate,percent,2.0,reported
+2008-07-01,fed_funds,Federal Funds Effective Rate,percent,2.01,reported
+1961-03-01,fed_funds,Federal Funds Effective Rate,percent,2.02,reported
+2019-09-01,fed_funds,Federal Funds Effective Rate,percent,2.04,reported
+2001-11-01,fed_funds,Federal Funds Effective Rate,percent,2.09,reported
+2019-08-01,fed_funds,Federal Funds Effective Rate,percent,2.13,reported
+1962-01-01,fed_funds,Federal Funds Effective Rate,percent,2.15,reported
+2004-12-01,fed_funds,Federal Funds Effective Rate,percent,2.16,reported
+1955-09-01,fed_funds,Federal Funds Effective Rate,percent,2.18,reported
+2018-10-01,fed_funds,Federal Funds Effective Rate,percent,2.19,reported
+2018-11-01,fed_funds,Federal Funds Effective Rate,percent,2.2,reported
+1955-10-01,fed_funds,Federal Funds Effective Rate,percent,2.24,reported
+1961-10-01,fed_funds,Federal Funds Effective Rate,percent,2.26,reported
+2018-12-01,fed_funds,Federal Funds Effective Rate,percent,2.27,reported
+1958-11-01,fed_funds,Federal Funds Effective Rate,percent,2.27,reported
+2008-04-01,fed_funds,Federal Funds Effective Rate,percent,2.28,reported
+2005-01-01,fed_funds,Federal Funds Effective Rate,percent,2.28,reported
+1961-12-01,fed_funds,Federal Funds Effective Rate,percent,2.33,reported
+2022-08-01,fed_funds,Federal Funds Effective Rate,percent,2.33,reported
+1955-11-01,fed_funds,Federal Funds Effective Rate,percent,2.35,reported
+1962-05-01,fed_funds,Federal Funds Effective Rate,percent,2.36,reported
+1962-02-01,fed_funds,Federal Funds Effective Rate,percent,2.37,reported
+2019-06-01,fed_funds,Federal Funds Effective Rate,percent,2.38,reported
+2019-05-01,fed_funds,Federal Funds Effective Rate,percent,2.39,reported
+2019-02-01,fed_funds,Federal Funds Effective Rate,percent,2.4,reported
+2019-07-01,fed_funds,Federal Funds Effective Rate,percent,2.4,reported
+2019-01-01,fed_funds,Federal Funds Effective Rate,percent,2.4,reported
+2019-03-01,fed_funds,Federal Funds Effective Rate,percent,2.41,reported
+2019-04-01,fed_funds,Federal Funds Effective Rate,percent,2.42,reported
+1958-12-01,fed_funds,Federal Funds Effective Rate,percent,2.42,reported
+1959-02-01,fed_funds,Federal Funds Effective Rate,percent,2.43,reported
+1960-11-01,fed_funds,Federal Funds Effective Rate,percent,2.44,reported
+1956-01-01,fed_funds,Federal Funds Effective Rate,percent,2.45,reported
+1960-10-01,fed_funds,Federal Funds Effective Rate,percent,2.47,reported
+1955-12-01,fed_funds,Federal Funds Effective Rate,percent,2.48,reported
+1959-01-01,fed_funds,Federal Funds Effective Rate,percent,2.48,reported
+2001-10-01,fed_funds,Federal Funds Effective Rate,percent,2.49,reported
+1956-02-01,fed_funds,Federal Funds Effective Rate,percent,2.5,reported
+2005-02-01,fed_funds,Federal Funds Effective Rate,percent,2.5,reported
+1956-03-01,fed_funds,Federal Funds Effective Rate,percent,2.5,reported
+1961-02-01,fed_funds,Federal Funds Effective Rate,percent,2.54,reported
+2022-09-01,fed_funds,Federal Funds Effective Rate,percent,2.56,reported
+1960-09-01,fed_funds,Federal Funds Effective Rate,percent,2.6,reported
+2008-03-01,fed_funds,Federal Funds Effective Rate,percent,2.61,reported
+1961-11-01,fed_funds,Federal Funds Effective Rate,percent,2.61,reported
+1956-04-01,fed_funds,Federal Funds Effective Rate,percent,2.62,reported
+2005-03-01,fed_funds,Federal Funds Effective Rate,percent,2.63,reported
+1962-06-01,fed_funds,Federal Funds Effective Rate,percent,2.68,reported
+1956-06-01,fed_funds,Federal Funds Effective Rate,percent,2.71,reported
+1962-07-01,fed_funds,Federal Funds Effective Rate,percent,2.71,reported
+1958-01-01,fed_funds,Federal Funds Effective Rate,percent,2.72,reported
+1956-08-01,fed_funds,Federal Funds Effective Rate,percent,2.73,reported
+1956-07-01,fed_funds,Federal Funds Effective Rate,percent,2.75,reported
+1956-05-01,fed_funds,Federal Funds Effective Rate,percent,2.75,reported
+1962-04-01,fed_funds,Federal Funds Effective Rate,percent,2.78,reported
+2005-04-01,fed_funds,Federal Funds Effective Rate,percent,2.79,reported
+1959-03-01,fed_funds,Federal Funds Effective Rate,percent,2.8,reported
+1957-01-01,fed_funds,Federal Funds Effective Rate,percent,2.84,reported
+1962-03-01,fed_funds,Federal Funds Effective Rate,percent,2.85,reported
+1956-11-01,fed_funds,Federal Funds Effective Rate,percent,2.88,reported
+1962-10-01,fed_funds,Federal Funds Effective Rate,percent,2.9,reported
+1962-09-01,fed_funds,Federal Funds Effective Rate,percent,2.9,reported
+1959-05-01,fed_funds,Federal Funds Effective Rate,percent,2.9,reported
+1963-04-01,fed_funds,Federal Funds Effective Rate,percent,2.9,reported
+1963-01-01,fed_funds,Federal Funds Effective Rate,percent,2.92,reported
+1992-12-01,fed_funds,Federal Funds Effective Rate,percent,2.92,reported
+1962-12-01,fed_funds,Federal Funds Effective Rate,percent,2.93,reported
+1962-08-01,fed_funds,Federal Funds Effective Rate,percent,2.93,reported
+1956-12-01,fed_funds,Federal Funds Effective Rate,percent,2.94,reported
+1962-11-01,fed_funds,Federal Funds Effective Rate,percent,2.94,reported
+1956-09-01,fed_funds,Federal Funds Effective Rate,percent,2.95,reported
+1956-10-01,fed_funds,Federal Funds Effective Rate,percent,2.96,reported
+1959-04-01,fed_funds,Federal Funds Effective Rate,percent,2.96,reported
+1957-03-01,fed_funds,Federal Funds Effective Rate,percent,2.96,reported
+1993-12-01,fed_funds,Federal Funds Effective Rate,percent,2.96,reported
+1993-04-01,fed_funds,Federal Funds Effective Rate,percent,2.96,reported
+1963-03-01,fed_funds,Federal Funds Effective Rate,percent,2.98,reported
+2008-02-01,fed_funds,Federal Funds Effective Rate,percent,2.98,reported
+1960-08-01,fed_funds,Federal Funds Effective Rate,percent,2.98,reported
+1957-12-01,fed_funds,Federal Funds Effective Rate,percent,2.98,reported
+1957-07-01,fed_funds,Federal Funds Effective Rate,percent,2.99,reported
+1993-10-01,fed_funds,Federal Funds Effective Rate,percent,2.99,reported
+1963-06-01,fed_funds,Federal Funds Effective Rate,percent,2.99,reported
+1993-05-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1963-05-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1957-06-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+2005-05-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1957-02-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1963-02-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1957-04-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1957-05-01,fed_funds,Federal Funds Effective Rate,percent,3.0,reported
+1963-07-01,fed_funds,Federal Funds Effective Rate,percent,3.02,reported
+1993-11-01,fed_funds,Federal Funds Effective Rate,percent,3.02,reported
+1993-01-01,fed_funds,Federal Funds Effective Rate,percent,3.02,reported
+1993-08-01,fed_funds,Federal Funds Effective Rate,percent,3.03,reported
+1993-02-01,fed_funds,Federal Funds Effective Rate,percent,3.03,reported
+1993-06-01,fed_funds,Federal Funds Effective Rate,percent,3.04,reported
+2005-06-01,fed_funds,Federal Funds Effective Rate,percent,3.04,reported
+1994-01-01,fed_funds,Federal Funds Effective Rate,percent,3.05,reported
+1993-07-01,fed_funds,Federal Funds Effective Rate,percent,3.06,reported
+2001-09-01,fed_funds,Federal Funds Effective Rate,percent,3.07,reported
+1993-03-01,fed_funds,Federal Funds Effective Rate,percent,3.07,reported
+2022-10-01,fed_funds,Federal Funds Effective Rate,percent,3.08,reported
+1992-11-01,fed_funds,Federal Funds Effective Rate,percent,3.09,reported
+1993-09-01,fed_funds,Federal Funds Effective Rate,percent,3.09,reported
+1992-10-01,fed_funds,Federal Funds Effective Rate,percent,3.1,reported
+1992-09-01,fed_funds,Federal Funds Effective Rate,percent,3.22,reported
+1960-07-01,fed_funds,Federal Funds Effective Rate,percent,3.23,reported
+1957-08-01,fed_funds,Federal Funds Effective Rate,percent,3.24,reported
+1994-02-01,fed_funds,Federal Funds Effective Rate,percent,3.25,reported
+1992-07-01,fed_funds,Federal Funds Effective Rate,percent,3.25,reported
+2005-07-01,fed_funds,Federal Funds Effective Rate,percent,3.26,reported
+1957-11-01,fed_funds,Federal Funds Effective Rate,percent,3.28,reported
+1992-08-01,fed_funds,Federal Funds Effective Rate,percent,3.3,reported
+1972-02-01,fed_funds,Federal Funds Effective Rate,percent,3.3,reported
+1960-06-01,fed_funds,Federal Funds Effective Rate,percent,3.32,reported
+1994-03-01,fed_funds,Federal Funds Effective Rate,percent,3.34,reported
+1964-10-01,fed_funds,Federal Funds Effective Rate,percent,3.36,reported
+1963-12-01,fed_funds,Federal Funds Effective Rate,percent,3.38,reported
+1959-06-01,fed_funds,Federal Funds Effective Rate,percent,3.39,reported
+1964-07-01,fed_funds,Federal Funds Effective Rate,percent,3.42,reported
+1964-03-01,fed_funds,Federal Funds Effective Rate,percent,3.43,reported
+1964-09-01,fed_funds,Federal Funds Effective Rate,percent,3.45,reported
+1959-07-01,fed_funds,Federal Funds Effective Rate,percent,3.47,reported
+1957-09-01,fed_funds,Federal Funds Effective Rate,percent,3.47,reported
+1964-04-01,fed_funds,Federal Funds Effective Rate,percent,3.47,reported
+1964-01-01,fed_funds,Federal Funds Effective Rate,percent,3.48,reported
+1963-11-01,fed_funds,Federal Funds Effective Rate,percent,3.48,reported
+1964-02-01,fed_funds,Federal Funds Effective Rate,percent,3.48,reported
+1963-09-01,fed_funds,Federal Funds Effective Rate,percent,3.48,reported
+1963-08-01,fed_funds,Federal Funds Effective Rate,percent,3.49,reported
+1964-08-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+1957-10-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+1963-10-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+2005-08-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+1959-08-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+1964-05-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+1964-06-01,fed_funds,Federal Funds Effective Rate,percent,3.5,reported
+1972-01-01,fed_funds,Federal Funds Effective Rate,percent,3.51,reported
+1964-11-01,fed_funds,Federal Funds Effective Rate,percent,3.52,reported
+1994-04-01,fed_funds,Federal Funds Effective Rate,percent,3.56,reported
+2005-09-01,fed_funds,Federal Funds Effective Rate,percent,3.62,reported
+2026-05-01,fed_funds,Federal Funds Effective Rate,percent,3.63,reported
+2026-02-01,fed_funds,Federal Funds Effective Rate,percent,3.64,reported
+2026-03-01,fed_funds,Federal Funds Effective Rate,percent,3.64,reported
+2026-04-01,fed_funds,Federal Funds Effective Rate,percent,3.64,reported
+2026-01-01,fed_funds,Federal Funds Effective Rate,percent,3.64,reported
+2001-08-01,fed_funds,Federal Funds Effective Rate,percent,3.65,reported
+1971-03-01,fed_funds,Federal Funds Effective Rate,percent,3.71,reported
+1971-02-01,fed_funds,Federal Funds Effective Rate,percent,3.72,reported
+2025-12-01,fed_funds,Federal Funds Effective Rate,percent,3.72,reported
+1992-04-01,fed_funds,Federal Funds Effective Rate,percent,3.73,reported
+1992-06-01,fed_funds,Federal Funds Effective Rate,percent,3.76,reported
+1959-09-01,fed_funds,Federal Funds Effective Rate,percent,3.76,reported
+2001-07-01,fed_funds,Federal Funds Effective Rate,percent,3.77,reported
+2005-10-01,fed_funds,Federal Funds Effective Rate,percent,3.78,reported
+2022-11-01,fed_funds,Federal Funds Effective Rate,percent,3.78,reported
+1967-07-01,fed_funds,Federal Funds Effective Rate,percent,3.79,reported
+1992-05-01,fed_funds,Federal Funds Effective Rate,percent,3.82,reported
+1972-03-01,fed_funds,Federal Funds Effective Rate,percent,3.83,reported
+1960-03-01,fed_funds,Federal Funds Effective Rate,percent,3.84,reported
+1960-05-01,fed_funds,Federal Funds Effective Rate,percent,3.85,reported
+1964-12-01,fed_funds,Federal Funds Effective Rate,percent,3.85,reported
+2025-11-01,fed_funds,Federal Funds Effective Rate,percent,3.88,reported
+1967-10-01,fed_funds,Federal Funds Effective Rate,percent,3.88,reported
+1967-08-01,fed_funds,Federal Funds Effective Rate,percent,3.9,reported
+1965-01-01,fed_funds,Federal Funds Effective Rate,percent,3.9,reported
+1960-04-01,fed_funds,Federal Funds Effective Rate,percent,3.92,reported
+1967-05-01,fed_funds,Federal Funds Effective Rate,percent,3.94,reported
+2008-01-01,fed_funds,Federal Funds Effective Rate,percent,3.94,reported
+2001-06-01,fed_funds,Federal Funds Effective Rate,percent,3.97,reported
+1960-02-01,fed_funds,Federal Funds Effective Rate,percent,3.97,reported
+1959-10-01,fed_funds,Federal Funds Effective Rate,percent,3.98,reported
+1965-02-01,fed_funds,Federal Funds Effective Rate,percent,3.98,reported
+1967-06-01,fed_funds,Federal Funds Effective Rate,percent,3.98,reported
+1992-03-01,fed_funds,Federal Funds Effective Rate,percent,3.98,reported
+1967-09-01,fed_funds,Federal Funds Effective Rate,percent,3.99,reported
+1959-12-01,fed_funds,Federal Funds Effective Rate,percent,3.99,reported
+1960-01-01,fed_funds,Federal Funds Effective Rate,percent,3.99,reported
+1959-11-01,fed_funds,Federal Funds Effective Rate,percent,4.0,reported
+2005-11-01,fed_funds,Federal Funds Effective Rate,percent,4.0,reported
+1994-05-01,fed_funds,Federal Funds Effective Rate,percent,4.01,reported
+1965-09-01,fed_funds,Federal Funds Effective Rate,percent,4.02,reported
+1992-01-01,fed_funds,Federal Funds Effective Rate,percent,4.03,reported
+1965-03-01,fed_funds,Federal Funds Effective Rate,percent,4.05,reported
+1967-04-01,fed_funds,Federal Funds Effective Rate,percent,4.05,reported
+1965-06-01,fed_funds,Federal Funds Effective Rate,percent,4.05,reported
+1992-02-01,fed_funds,Federal Funds Effective Rate,percent,4.06,reported
+1965-10-01,fed_funds,Federal Funds Effective Rate,percent,4.08,reported
+1965-07-01,fed_funds,Federal Funds Effective Rate,percent,4.09,reported
+2025-10-01,fed_funds,Federal Funds Effective Rate,percent,4.09,reported
+1965-04-01,fed_funds,Federal Funds Effective Rate,percent,4.09,reported
+1965-11-01,fed_funds,Federal Funds Effective Rate,percent,4.1,reported
+2022-12-01,fed_funds,Federal Funds Effective Rate,percent,4.1,reported
+1965-05-01,fed_funds,Federal Funds Effective Rate,percent,4.1,reported
+1965-08-01,fed_funds,Federal Funds Effective Rate,percent,4.12,reported
+1967-11-01,fed_funds,Federal Funds Effective Rate,percent,4.13,reported
+1971-12-01,fed_funds,Federal Funds Effective Rate,percent,4.14,reported
+1971-01-01,fed_funds,Federal Funds Effective Rate,percent,4.14,reported
+1971-04-01,fed_funds,Federal Funds Effective Rate,percent,4.16,reported
+2005-12-01,fed_funds,Federal Funds Effective Rate,percent,4.16,reported
+1972-04-01,fed_funds,Federal Funds Effective Rate,percent,4.17,reported
+2001-05-01,fed_funds,Federal Funds Effective Rate,percent,4.21,reported
+2025-09-01,fed_funds,Federal Funds Effective Rate,percent,4.22,reported
+2007-12-01,fed_funds,Federal Funds Effective Rate,percent,4.24,reported
+1994-06-01,fed_funds,Federal Funds Effective Rate,percent,4.25,reported
+1994-07-01,fed_funds,Federal Funds Effective Rate,percent,4.26,reported
+1972-05-01,fed_funds,Federal Funds Effective Rate,percent,4.27,reported
+2006-01-01,fed_funds,Federal Funds Effective Rate,percent,4.29,reported
+1965-12-01,fed_funds,Federal Funds Effective Rate,percent,4.32,reported
+2025-05-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2023-01-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-01-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-04-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-02-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-07-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-06-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-08-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+2025-03-01,fed_funds,Federal Funds Effective Rate,percent,4.33,reported
+1966-01-01,fed_funds,Federal Funds Effective Rate,percent,4.42,reported
+1991-12-01,fed_funds,Federal Funds Effective Rate,percent,4.43,reported
+1972-06-01,fed_funds,Federal Funds Effective Rate,percent,4.46,reported
+1994-08-01,fed_funds,Federal Funds Effective Rate,percent,4.47,reported
+2024-12-01,fed_funds,Federal Funds Effective Rate,percent,4.48,reported
+2007-11-01,fed_funds,Federal Funds Effective Rate,percent,4.49,reported
+2006-02-01,fed_funds,Federal Funds Effective Rate,percent,4.49,reported
+1967-12-01,fed_funds,Federal Funds Effective Rate,percent,4.51,reported
+1967-03-01,fed_funds,Federal Funds Effective Rate,percent,4.53,reported
+1972-07-01,fed_funds,Federal Funds Effective Rate,percent,4.55,reported
+2023-02-01,fed_funds,Federal Funds Effective Rate,percent,4.57,reported
+2006-03-01,fed_funds,Federal Funds Effective Rate,percent,4.59,reported
+1966-02-01,fed_funds,Federal Funds Effective Rate,percent,4.6,reported
+1968-01-01,fed_funds,Federal Funds Effective Rate,percent,4.61,reported
+1977-01-01,fed_funds,Federal Funds Effective Rate,percent,4.61,reported
+1999-01-01,fed_funds,Federal Funds Effective Rate,percent,4.63,reported
+1971-05-01,fed_funds,Federal Funds Effective Rate,percent,4.63,reported
+2024-11-01,fed_funds,Federal Funds Effective Rate,percent,4.64,reported
+2023-03-01,fed_funds,Federal Funds Effective Rate,percent,4.65,reported
+1976-12-01,fed_funds,Federal Funds Effective Rate,percent,4.65,reported
+1966-03-01,fed_funds,Federal Funds Effective Rate,percent,4.66,reported
+1966-04-01,fed_funds,Federal Funds Effective Rate,percent,4.67,reported
+1977-02-01,fed_funds,Federal Funds Effective Rate,percent,4.68,reported
+1998-12-01,fed_funds,Federal Funds Effective Rate,percent,4.68,reported
+1977-03-01,fed_funds,Federal Funds Effective Rate,percent,4.69,reported
+1968-02-01,fed_funds,Federal Funds Effective Rate,percent,4.71,reported
+1977-04-01,fed_funds,Federal Funds Effective Rate,percent,4.73,reported
+1994-09-01,fed_funds,Federal Funds Effective Rate,percent,4.73,reported
+1999-04-01,fed_funds,Federal Funds Effective Rate,percent,4.74,reported
+1999-05-01,fed_funds,Federal Funds Effective Rate,percent,4.74,reported
+1999-06-01,fed_funds,Federal Funds Effective Rate,percent,4.76,reported
+1994-10-01,fed_funds,Federal Funds Effective Rate,percent,4.76,reported
+1999-02-01,fed_funds,Federal Funds Effective Rate,percent,4.76,reported
+2007-10-01,fed_funds,Federal Funds Effective Rate,percent,4.76,reported
+1976-02-01,fed_funds,Federal Funds Effective Rate,percent,4.77,reported
+2006-04-01,fed_funds,Federal Funds Effective Rate,percent,4.79,reported
+2001-04-01,fed_funds,Federal Funds Effective Rate,percent,4.8,reported
+1972-08-01,fed_funds,Federal Funds Effective Rate,percent,4.81,reported
+1991-11-01,fed_funds,Federal Funds Effective Rate,percent,4.81,reported
+1999-03-01,fed_funds,Federal Funds Effective Rate,percent,4.81,reported
+1976-04-01,fed_funds,Federal Funds Effective Rate,percent,4.82,reported
+1998-11-01,fed_funds,Federal Funds Effective Rate,percent,4.83,reported
+2023-04-01,fed_funds,Federal Funds Effective Rate,percent,4.83,reported
+2024-10-01,fed_funds,Federal Funds Effective Rate,percent,4.83,reported
+1976-03-01,fed_funds,Federal Funds Effective Rate,percent,4.84,reported
+1976-01-01,fed_funds,Federal Funds Effective Rate,percent,4.87,reported
+1972-09-01,fed_funds,Federal Funds Effective Rate,percent,4.87,reported
+1970-12-01,fed_funds,Federal Funds Effective Rate,percent,4.9,reported
+1966-05-01,fed_funds,Federal Funds Effective Rate,percent,4.9,reported
+1971-11-01,fed_funds,Federal Funds Effective Rate,percent,4.91,reported
+1971-06-01,fed_funds,Federal Funds Effective Rate,percent,4.91,reported
+1967-01-01,fed_funds,Federal Funds Effective Rate,percent,4.94,reported
+2007-09-01,fed_funds,Federal Funds Effective Rate,percent,4.94,reported
+2006-05-01,fed_funds,Federal Funds Effective Rate,percent,4.94,reported
+1976-11-01,fed_funds,Federal Funds Effective Rate,percent,4.95,reported
+1999-07-01,fed_funds,Federal Funds Effective Rate,percent,4.99,reported
+2006-06-01,fed_funds,Federal Funds Effective Rate,percent,4.99,reported
+1967-02-01,fed_funds,Federal Funds Effective Rate,percent,5.0,reported
+2007-08-01,fed_funds,Federal Funds Effective Rate,percent,5.02,reported
+1976-10-01,fed_funds,Federal Funds Effective Rate,percent,5.02,reported
+1972-10-01,fed_funds,Federal Funds Effective Rate,percent,5.05,reported
+1968-03-01,fed_funds,Federal Funds Effective Rate,percent,5.05,reported
+2023-05-01,fed_funds,Federal Funds Effective Rate,percent,5.06,reported
+1972-11-01,fed_funds,Federal Funds Effective Rate,percent,5.06,reported
+1999-08-01,fed_funds,Federal Funds Effective Rate,percent,5.07,reported
+1998-10-01,fed_funds,Federal Funds Effective Rate,percent,5.07,reported
+2023-06-01,fed_funds,Federal Funds Effective Rate,percent,5.08,reported
+2023-07-01,fed_funds,Federal Funds Effective Rate,percent,5.12,reported
+2024-09-01,fed_funds,Federal Funds Effective Rate,percent,5.13,reported
+1966-06-01,fed_funds,Federal Funds Effective Rate,percent,5.17,reported
+1997-02-01,fed_funds,Federal Funds Effective Rate,percent,5.19,reported
+1999-10-01,fed_funds,Federal Funds Effective Rate,percent,5.2,reported
+1975-12-01,fed_funds,Federal Funds Effective Rate,percent,5.2,reported
+1971-10-01,fed_funds,Federal Funds Effective Rate,percent,5.2,reported
+1991-10-01,fed_funds,Federal Funds Effective Rate,percent,5.21,reported
+1996-02-01,fed_funds,Federal Funds Effective Rate,percent,5.22,reported
+1975-05-01,fed_funds,Federal Funds Effective Rate,percent,5.22,reported
+1999-09-01,fed_funds,Federal Funds Effective Rate,percent,5.22,reported
+1996-04-01,fed_funds,Federal Funds Effective Rate,percent,5.22,reported
+1975-11-01,fed_funds,Federal Funds Effective Rate,percent,5.22,reported
+1996-08-01,fed_funds,Federal Funds Effective Rate,percent,5.22,reported
+1996-10-01,fed_funds,Federal Funds Effective Rate,percent,5.24,reported
+1996-05-01,fed_funds,Federal Funds Effective Rate,percent,5.24,reported
+2006-07-01,fed_funds,Federal Funds Effective Rate,percent,5.24,reported
+2006-12-01,fed_funds,Federal Funds Effective Rate,percent,5.24,reported
+2006-10-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2006-11-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2007-04-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+1976-09-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2007-01-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2007-05-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+1997-01-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2006-08-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2007-06-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2006-09-01,fed_funds,Federal Funds Effective Rate,percent,5.25,reported
+2007-03-01,fed_funds,Federal Funds Effective Rate,percent,5.26,reported
+2007-07-01,fed_funds,Federal Funds Effective Rate,percent,5.26,reported
+2007-02-01,fed_funds,Federal Funds Effective Rate,percent,5.26,reported
+1996-06-01,fed_funds,Federal Funds Effective Rate,percent,5.27,reported
+1996-12-01,fed_funds,Federal Funds Effective Rate,percent,5.29,reported
+1994-11-01,fed_funds,Federal Funds Effective Rate,percent,5.29,reported
+1976-08-01,fed_funds,Federal Funds Effective Rate,percent,5.29,reported
+1976-05-01,fed_funds,Federal Funds Effective Rate,percent,5.29,reported
+1966-07-01,fed_funds,Federal Funds Effective Rate,percent,5.3,reported
+1996-09-01,fed_funds,Federal Funds Effective Rate,percent,5.3,reported
+1999-12-01,fed_funds,Federal Funds Effective Rate,percent,5.3,reported
+1996-11-01,fed_funds,Federal Funds Effective Rate,percent,5.31,reported
+1976-07-01,fed_funds,Federal Funds Effective Rate,percent,5.31,reported
+1996-03-01,fed_funds,Federal Funds Effective Rate,percent,5.31,reported
+1971-07-01,fed_funds,Federal Funds Effective Rate,percent,5.31,reported
+2001-03-01,fed_funds,Federal Funds Effective Rate,percent,5.31,reported
+2024-06-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-05-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2023-09-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-01-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2023-08-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2023-12-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-08-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-03-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-04-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-07-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2023-11-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2024-02-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+2023-10-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+1972-12-01,fed_funds,Federal Funds Effective Rate,percent,5.33,reported
+1977-05-01,fed_funds,Federal Funds Effective Rate,percent,5.35,reported
+1977-06-01,fed_funds,Federal Funds Effective Rate,percent,5.39,reported
+1997-03-01,fed_funds,Federal Funds Effective Rate,percent,5.39,reported
+1966-12-01,fed_funds,Federal Funds Effective Rate,percent,5.4,reported
+1996-07-01,fed_funds,Federal Funds Effective Rate,percent,5.4,reported
+1966-09-01,fed_funds,Federal Funds Effective Rate,percent,5.4,reported
+1999-11-01,fed_funds,Federal Funds Effective Rate,percent,5.42,reported
+1977-07-01,fed_funds,Federal Funds Effective Rate,percent,5.42,reported
+1991-09-01,fed_funds,Federal Funds Effective Rate,percent,5.45,reported
+1994-12-01,fed_funds,Federal Funds Effective Rate,percent,5.45,reported
+1998-04-01,fed_funds,Federal Funds Effective Rate,percent,5.45,reported
+2000-01-01,fed_funds,Federal Funds Effective Rate,percent,5.45,reported
+1976-06-01,fed_funds,Federal Funds Effective Rate,percent,5.48,reported
+1998-05-01,fed_funds,Federal Funds Effective Rate,percent,5.49,reported
+1975-04-01,fed_funds,Federal Funds Effective Rate,percent,5.49,reported
+1998-03-01,fed_funds,Federal Funds Effective Rate,percent,5.49,reported
+2001-02-01,fed_funds,Federal Funds Effective Rate,percent,5.49,reported
+1997-10-01,fed_funds,Federal Funds Effective Rate,percent,5.5,reported
+1997-12-01,fed_funds,Federal Funds Effective Rate,percent,5.5,reported
+1997-05-01,fed_funds,Federal Funds Effective Rate,percent,5.5,reported
+1997-04-01,fed_funds,Federal Funds Effective Rate,percent,5.51,reported
+1998-02-01,fed_funds,Federal Funds Effective Rate,percent,5.51,reported
+1998-09-01,fed_funds,Federal Funds Effective Rate,percent,5.51,reported
+1997-07-01,fed_funds,Federal Funds Effective Rate,percent,5.52,reported
+1997-11-01,fed_funds,Federal Funds Effective Rate,percent,5.52,reported
+1966-08-01,fed_funds,Federal Funds Effective Rate,percent,5.53,reported
+1966-10-01,fed_funds,Federal Funds Effective Rate,percent,5.53,reported
+1995-01-01,fed_funds,Federal Funds Effective Rate,percent,5.53,reported
+1997-08-01,fed_funds,Federal Funds Effective Rate,percent,5.54,reported
+1997-09-01,fed_funds,Federal Funds Effective Rate,percent,5.54,reported
+1975-03-01,fed_funds,Federal Funds Effective Rate,percent,5.54,reported
+1998-07-01,fed_funds,Federal Funds Effective Rate,percent,5.54,reported
+1975-06-01,fed_funds,Federal Funds Effective Rate,percent,5.55,reported
+1998-08-01,fed_funds,Federal Funds Effective Rate,percent,5.55,reported
+1971-09-01,fed_funds,Federal Funds Effective Rate,percent,5.55,reported
+1998-06-01,fed_funds,Federal Funds Effective Rate,percent,5.56,reported
+1998-01-01,fed_funds,Federal Funds Effective Rate,percent,5.56,reported
+1996-01-01,fed_funds,Federal Funds Effective Rate,percent,5.56,reported
+1997-06-01,fed_funds,Federal Funds Effective Rate,percent,5.56,reported
+1971-08-01,fed_funds,Federal Funds Effective Rate,percent,5.57,reported
+1995-12-01,fed_funds,Federal Funds Effective Rate,percent,5.6,reported
+1970-11-01,fed_funds,Federal Funds Effective Rate,percent,5.6,reported
+1991-08-01,fed_funds,Federal Funds Effective Rate,percent,5.66,reported
+2000-02-01,fed_funds,Federal Funds Effective Rate,percent,5.73,reported
+1995-08-01,fed_funds,Federal Funds Effective Rate,percent,5.74,reported
+1968-04-01,fed_funds,Federal Funds Effective Rate,percent,5.76,reported
+1995-10-01,fed_funds,Federal Funds Effective Rate,percent,5.76,reported
+1966-11-01,fed_funds,Federal Funds Effective Rate,percent,5.76,reported
+1991-05-01,fed_funds,Federal Funds Effective Rate,percent,5.78,reported
+1968-09-01,fed_funds,Federal Funds Effective Rate,percent,5.78,reported
+1995-11-01,fed_funds,Federal Funds Effective Rate,percent,5.8,reported
+1995-09-01,fed_funds,Federal Funds Effective Rate,percent,5.8,reported
+1975-10-01,fed_funds,Federal Funds Effective Rate,percent,5.82,reported
+1991-07-01,fed_funds,Federal Funds Effective Rate,percent,5.82,reported
+1968-11-01,fed_funds,Federal Funds Effective Rate,percent,5.82,reported
+1995-07-01,fed_funds,Federal Funds Effective Rate,percent,5.85,reported
+1986-10-01,fed_funds,Federal Funds Effective Rate,percent,5.85,reported
+2000-03-01,fed_funds,Federal Funds Effective Rate,percent,5.85,reported
+1986-09-01,fed_funds,Federal Funds Effective Rate,percent,5.89,reported
+1977-08-01,fed_funds,Federal Funds Effective Rate,percent,5.9,reported
+1991-06-01,fed_funds,Federal Funds Effective Rate,percent,5.9,reported
+1968-10-01,fed_funds,Federal Funds Effective Rate,percent,5.91,reported
+1991-04-01,fed_funds,Federal Funds Effective Rate,percent,5.91,reported
+1995-02-01,fed_funds,Federal Funds Effective Rate,percent,5.92,reported
+1973-01-01,fed_funds,Federal Funds Effective Rate,percent,5.94,reported
+2001-01-01,fed_funds,Federal Funds Effective Rate,percent,5.98,reported
+1995-03-01,fed_funds,Federal Funds Effective Rate,percent,5.98,reported
+1995-06-01,fed_funds,Federal Funds Effective Rate,percent,6.0,reported
+1995-05-01,fed_funds,Federal Funds Effective Rate,percent,6.01,reported
+1968-12-01,fed_funds,Federal Funds Effective Rate,percent,6.02,reported
+2000-04-01,fed_funds,Federal Funds Effective Rate,percent,6.02,reported
+1968-08-01,fed_funds,Federal Funds Effective Rate,percent,6.03,reported
+1968-07-01,fed_funds,Federal Funds Effective Rate,percent,6.03,reported
+1986-11-01,fed_funds,Federal Funds Effective Rate,percent,6.04,reported
+1995-04-01,fed_funds,Federal Funds Effective Rate,percent,6.05,reported
+1968-06-01,fed_funds,Federal Funds Effective Rate,percent,6.07,reported
+1975-07-01,fed_funds,Federal Funds Effective Rate,percent,6.1,reported
+1987-02-01,fed_funds,Federal Funds Effective Rate,percent,6.1,reported
+1991-03-01,fed_funds,Federal Funds Effective Rate,percent,6.12,reported
+1968-05-01,fed_funds,Federal Funds Effective Rate,percent,6.12,reported
+1987-03-01,fed_funds,Federal Funds Effective Rate,percent,6.13,reported
+1977-09-01,fed_funds,Federal Funds Effective Rate,percent,6.14,reported
+1975-08-01,fed_funds,Federal Funds Effective Rate,percent,6.14,reported
+1986-08-01,fed_funds,Federal Funds Effective Rate,percent,6.17,reported
+1970-10-01,fed_funds,Federal Funds Effective Rate,percent,6.2,reported
+1975-09-01,fed_funds,Federal Funds Effective Rate,percent,6.24,reported
+1975-02-01,fed_funds,Federal Funds Effective Rate,percent,6.24,reported
+1991-02-01,fed_funds,Federal Funds Effective Rate,percent,6.25,reported
+2000-05-01,fed_funds,Federal Funds Effective Rate,percent,6.27,reported
+1970-09-01,fed_funds,Federal Funds Effective Rate,percent,6.29,reported
+1969-01-01,fed_funds,Federal Funds Effective Rate,percent,6.3,reported
+1987-04-01,fed_funds,Federal Funds Effective Rate,percent,6.37,reported
+2000-12-01,fed_funds,Federal Funds Effective Rate,percent,6.4,reported
+1987-01-01,fed_funds,Federal Funds Effective Rate,percent,6.43,reported
+1977-10-01,fed_funds,Federal Funds Effective Rate,percent,6.47,reported
+2000-08-01,fed_funds,Federal Funds Effective Rate,percent,6.5,reported
+2000-10-01,fed_funds,Federal Funds Effective Rate,percent,6.51,reported
+1977-11-01,fed_funds,Federal Funds Effective Rate,percent,6.51,reported
+2000-11-01,fed_funds,Federal Funds Effective Rate,percent,6.51,reported
+2000-09-01,fed_funds,Federal Funds Effective Rate,percent,6.52,reported
+2000-06-01,fed_funds,Federal Funds Effective Rate,percent,6.53,reported
+2000-07-01,fed_funds,Federal Funds Effective Rate,percent,6.54,reported
+1977-12-01,fed_funds,Federal Funds Effective Rate,percent,6.56,reported
+1986-07-01,fed_funds,Federal Funds Effective Rate,percent,6.56,reported
+1988-02-01,fed_funds,Federal Funds Effective Rate,percent,6.58,reported
+1988-03-01,fed_funds,Federal Funds Effective Rate,percent,6.58,reported
+1973-02-01,fed_funds,Federal Funds Effective Rate,percent,6.58,reported
+1987-07-01,fed_funds,Federal Funds Effective Rate,percent,6.58,reported
+1969-02-01,fed_funds,Federal Funds Effective Rate,percent,6.61,reported
+1970-08-01,fed_funds,Federal Funds Effective Rate,percent,6.62,reported
+1987-11-01,fed_funds,Federal Funds Effective Rate,percent,6.69,reported
+1978-01-01,fed_funds,Federal Funds Effective Rate,percent,6.7,reported
+1987-08-01,fed_funds,Federal Funds Effective Rate,percent,6.73,reported
+1987-06-01,fed_funds,Federal Funds Effective Rate,percent,6.73,reported
+1987-12-01,fed_funds,Federal Funds Effective Rate,percent,6.77,reported
+1978-02-01,fed_funds,Federal Funds Effective Rate,percent,6.78,reported
+1969-03-01,fed_funds,Federal Funds Effective Rate,percent,6.79,reported
+1978-03-01,fed_funds,Federal Funds Effective Rate,percent,6.79,reported
+1988-01-01,fed_funds,Federal Funds Effective Rate,percent,6.83,reported
+1987-05-01,fed_funds,Federal Funds Effective Rate,percent,6.85,reported
+1986-05-01,fed_funds,Federal Funds Effective Rate,percent,6.85,reported
+1988-04-01,fed_funds,Federal Funds Effective Rate,percent,6.87,reported
+1978-04-01,fed_funds,Federal Funds Effective Rate,percent,6.89,reported
+1991-01-01,fed_funds,Federal Funds Effective Rate,percent,6.91,reported
+1986-12-01,fed_funds,Federal Funds Effective Rate,percent,6.91,reported
+1986-06-01,fed_funds,Federal Funds Effective Rate,percent,6.92,reported
+1986-04-01,fed_funds,Federal Funds Effective Rate,percent,6.99,reported
+1988-05-01,fed_funds,Federal Funds Effective Rate,percent,7.09,reported
+1973-03-01,fed_funds,Federal Funds Effective Rate,percent,7.09,reported
+1973-04-01,fed_funds,Federal Funds Effective Rate,percent,7.12,reported
+1975-01-01,fed_funds,Federal Funds Effective Rate,percent,7.13,reported
+1970-07-01,fed_funds,Federal Funds Effective Rate,percent,7.21,reported
+1987-09-01,fed_funds,Federal Funds Effective Rate,percent,7.22,reported
+1987-10-01,fed_funds,Federal Funds Effective Rate,percent,7.29,reported
+1990-12-01,fed_funds,Federal Funds Effective Rate,percent,7.31,reported
+1978-05-01,fed_funds,Federal Funds Effective Rate,percent,7.36,reported
+1969-04-01,fed_funds,Federal Funds Effective Rate,percent,7.41,reported
+1986-03-01,fed_funds,Federal Funds Effective Rate,percent,7.48,reported
+1988-06-01,fed_funds,Federal Funds Effective Rate,percent,7.51,reported
+1985-06-01,fed_funds,Federal Funds Effective Rate,percent,7.53,reported
+1978-06-01,fed_funds,Federal Funds Effective Rate,percent,7.6,reported
+1970-06-01,fed_funds,Federal Funds Effective Rate,percent,7.61,reported
+1988-07-01,fed_funds,Federal Funds Effective Rate,percent,7.75,reported
+1970-03-01,fed_funds,Federal Funds Effective Rate,percent,7.76,reported
+1990-11-01,fed_funds,Federal Funds Effective Rate,percent,7.81,reported
+1978-07-01,fed_funds,Federal Funds Effective Rate,percent,7.81,reported
+1973-05-01,fed_funds,Federal Funds Effective Rate,percent,7.84,reported
+1986-02-01,fed_funds,Federal Funds Effective Rate,percent,7.86,reported
+1985-07-01,fed_funds,Federal Funds Effective Rate,percent,7.88,reported
+1985-08-01,fed_funds,Federal Funds Effective Rate,percent,7.9,reported
+1985-09-01,fed_funds,Federal Funds Effective Rate,percent,7.92,reported
+1970-05-01,fed_funds,Federal Funds Effective Rate,percent,7.95,reported
+1985-05-01,fed_funds,Federal Funds Effective Rate,percent,7.97,reported
+1985-10-01,fed_funds,Federal Funds Effective Rate,percent,7.99,reported
+1988-08-01,fed_funds,Federal Funds Effective Rate,percent,8.01,reported
+1978-08-01,fed_funds,Federal Funds Effective Rate,percent,8.04,reported
+1985-11-01,fed_funds,Federal Funds Effective Rate,percent,8.05,reported
+1970-04-01,fed_funds,Federal Funds Effective Rate,percent,8.1,reported
+1990-10-01,fed_funds,Federal Funds Effective Rate,percent,8.11,reported
+1990-08-01,fed_funds,Federal Funds Effective Rate,percent,8.13,reported
+1986-01-01,fed_funds,Federal Funds Effective Rate,percent,8.14,reported
+1990-07-01,fed_funds,Federal Funds Effective Rate,percent,8.15,reported
+1990-05-01,fed_funds,Federal Funds Effective Rate,percent,8.18,reported
+1988-09-01,fed_funds,Federal Funds Effective Rate,percent,8.19,reported
+1990-09-01,fed_funds,Federal Funds Effective Rate,percent,8.2,reported
+1990-01-01,fed_funds,Federal Funds Effective Rate,percent,8.23,reported
+1990-02-01,fed_funds,Federal Funds Effective Rate,percent,8.24,reported
+1990-04-01,fed_funds,Federal Funds Effective Rate,percent,8.26,reported
+1985-04-01,fed_funds,Federal Funds Effective Rate,percent,8.27,reported
+1985-12-01,fed_funds,Federal Funds Effective Rate,percent,8.27,reported
+1990-03-01,fed_funds,Federal Funds Effective Rate,percent,8.28,reported
+1990-06-01,fed_funds,Federal Funds Effective Rate,percent,8.29,reported
+1988-10-01,fed_funds,Federal Funds Effective Rate,percent,8.3,reported
+1985-01-01,fed_funds,Federal Funds Effective Rate,percent,8.35,reported
+1988-11-01,fed_funds,Federal Funds Effective Rate,percent,8.35,reported
+1984-12-01,fed_funds,Federal Funds Effective Rate,percent,8.38,reported
+1989-12-01,fed_funds,Federal Funds Effective Rate,percent,8.45,reported
+1978-09-01,fed_funds,Federal Funds Effective Rate,percent,8.45,reported
+1973-06-01,fed_funds,Federal Funds Effective Rate,percent,8.49,reported
+1985-02-01,fed_funds,Federal Funds Effective Rate,percent,8.5,reported
+1983-02-01,fed_funds,Federal Funds Effective Rate,percent,8.51,reported
+1974-12-01,fed_funds,Federal Funds Effective Rate,percent,8.53,reported
+1989-11-01,fed_funds,Federal Funds Effective Rate,percent,8.55,reported
+1985-03-01,fed_funds,Federal Funds Effective Rate,percent,8.58,reported
+1969-07-01,fed_funds,Federal Funds Effective Rate,percent,8.61,reported
+1983-05-01,fed_funds,Federal Funds Effective Rate,percent,8.63,reported
+1969-05-01,fed_funds,Federal Funds Effective Rate,percent,8.67,reported
+1983-01-01,fed_funds,Federal Funds Effective Rate,percent,8.68,reported
+1988-12-01,fed_funds,Federal Funds Effective Rate,percent,8.76,reported
+1983-03-01,fed_funds,Federal Funds Effective Rate,percent,8.77,reported
+1983-04-01,fed_funds,Federal Funds Effective Rate,percent,8.8,reported
+1989-10-01,fed_funds,Federal Funds Effective Rate,percent,8.84,reported
+1969-11-01,fed_funds,Federal Funds Effective Rate,percent,8.85,reported
+1969-06-01,fed_funds,Federal Funds Effective Rate,percent,8.9,reported
+1982-12-01,fed_funds,Federal Funds Effective Rate,percent,8.95,reported
+1978-10-01,fed_funds,Federal Funds Effective Rate,percent,8.96,reported
+1974-02-01,fed_funds,Federal Funds Effective Rate,percent,8.97,reported
+1969-12-01,fed_funds,Federal Funds Effective Rate,percent,8.97,reported
+1970-01-01,fed_funds,Federal Funds Effective Rate,percent,8.98,reported
+1970-02-01,fed_funds,Federal Funds Effective Rate,percent,8.98,reported
+1983-06-01,fed_funds,Federal Funds Effective Rate,percent,8.98,reported
+1989-08-01,fed_funds,Federal Funds Effective Rate,percent,8.99,reported
+1969-10-01,fed_funds,Federal Funds Effective Rate,percent,9.0,reported
+1989-09-01,fed_funds,Federal Funds Effective Rate,percent,9.02,reported
+1980-07-01,fed_funds,Federal Funds Effective Rate,percent,9.03,reported
+1989-01-01,fed_funds,Federal Funds Effective Rate,percent,9.12,reported
+1969-09-01,fed_funds,Federal Funds Effective Rate,percent,9.15,reported
+1969-08-01,fed_funds,Federal Funds Effective Rate,percent,9.19,reported
+1982-11-01,fed_funds,Federal Funds Effective Rate,percent,9.2,reported
+1989-07-01,fed_funds,Federal Funds Effective Rate,percent,9.24,reported
+1983-11-01,fed_funds,Federal Funds Effective Rate,percent,9.34,reported
+1974-03-01,fed_funds,Federal Funds Effective Rate,percent,9.35,reported
+1989-02-01,fed_funds,Federal Funds Effective Rate,percent,9.36,reported
+1983-07-01,fed_funds,Federal Funds Effective Rate,percent,9.37,reported
+1984-11-01,fed_funds,Federal Funds Effective Rate,percent,9.43,reported
+1974-11-01,fed_funds,Federal Funds Effective Rate,percent,9.45,reported
+1983-09-01,fed_funds,Federal Funds Effective Rate,percent,9.45,reported
+1980-06-01,fed_funds,Federal Funds Effective Rate,percent,9.47,reported
+1983-12-01,fed_funds,Federal Funds Effective Rate,percent,9.47,reported
+1983-10-01,fed_funds,Federal Funds Effective Rate,percent,9.48,reported
+1989-06-01,fed_funds,Federal Funds Effective Rate,percent,9.53,reported
+1984-01-01,fed_funds,Federal Funds Effective Rate,percent,9.56,reported
+1983-08-01,fed_funds,Federal Funds Effective Rate,percent,9.56,reported
+1984-02-01,fed_funds,Federal Funds Effective Rate,percent,9.59,reported
+1980-08-01,fed_funds,Federal Funds Effective Rate,percent,9.61,reported
+1974-01-01,fed_funds,Federal Funds Effective Rate,percent,9.65,reported
+1982-10-01,fed_funds,Federal Funds Effective Rate,percent,9.71,reported
+1978-11-01,fed_funds,Federal Funds Effective Rate,percent,9.76,reported
+1989-05-01,fed_funds,Federal Funds Effective Rate,percent,9.81,reported
+1989-04-01,fed_funds,Federal Funds Effective Rate,percent,9.84,reported
+1989-03-01,fed_funds,Federal Funds Effective Rate,percent,9.85,reported
+1984-03-01,fed_funds,Federal Funds Effective Rate,percent,9.91,reported
+1973-12-01,fed_funds,Federal Funds Effective Rate,percent,9.95,reported
+1984-10-01,fed_funds,Federal Funds Effective Rate,percent,9.99,reported
+1973-10-01,fed_funds,Federal Funds Effective Rate,percent,10.01,reported
+1979-04-01,fed_funds,Federal Funds Effective Rate,percent,10.01,reported
+1973-11-01,fed_funds,Federal Funds Effective Rate,percent,10.03,reported
+1978-12-01,fed_funds,Federal Funds Effective Rate,percent,10.03,reported
+1979-02-01,fed_funds,Federal Funds Effective Rate,percent,10.06,reported
+1974-10-01,fed_funds,Federal Funds Effective Rate,percent,10.06,reported
+1979-01-01,fed_funds,Federal Funds Effective Rate,percent,10.07,reported
+1979-03-01,fed_funds,Federal Funds Effective Rate,percent,10.09,reported
+1982-08-01,fed_funds,Federal Funds Effective Rate,percent,10.12,reported
+1979-05-01,fed_funds,Federal Funds Effective Rate,percent,10.24,reported
+1984-04-01,fed_funds,Federal Funds Effective Rate,percent,10.29,reported
+1979-06-01,fed_funds,Federal Funds Effective Rate,percent,10.29,reported
+1982-09-01,fed_funds,Federal Funds Effective Rate,percent,10.31,reported
+1984-05-01,fed_funds,Federal Funds Effective Rate,percent,10.32,reported
+1973-07-01,fed_funds,Federal Funds Effective Rate,percent,10.4,reported
+1979-07-01,fed_funds,Federal Funds Effective Rate,percent,10.47,reported
+1973-08-01,fed_funds,Federal Funds Effective Rate,percent,10.5,reported
+1974-04-01,fed_funds,Federal Funds Effective Rate,percent,10.51,reported
+1973-09-01,fed_funds,Federal Funds Effective Rate,percent,10.78,reported
+1980-09-01,fed_funds,Federal Funds Effective Rate,percent,10.87,reported
+1979-08-01,fed_funds,Federal Funds Effective Rate,percent,10.94,reported
+1980-05-01,fed_funds,Federal Funds Effective Rate,percent,10.98,reported
+1984-06-01,fed_funds,Federal Funds Effective Rate,percent,11.06,reported
+1984-07-01,fed_funds,Federal Funds Effective Rate,percent,11.23,reported
+1984-09-01,fed_funds,Federal Funds Effective Rate,percent,11.3,reported
+1974-05-01,fed_funds,Federal Funds Effective Rate,percent,11.31,reported
+1974-09-01,fed_funds,Federal Funds Effective Rate,percent,11.34,reported
+1979-09-01,fed_funds,Federal Funds Effective Rate,percent,11.43,reported
+1984-08-01,fed_funds,Federal Funds Effective Rate,percent,11.64,reported
+1974-06-01,fed_funds,Federal Funds Effective Rate,percent,11.93,reported
+1974-08-01,fed_funds,Federal Funds Effective Rate,percent,12.01,reported
+1981-12-01,fed_funds,Federal Funds Effective Rate,percent,12.37,reported
+1982-07-01,fed_funds,Federal Funds Effective Rate,percent,12.59,reported
+1980-10-01,fed_funds,Federal Funds Effective Rate,percent,12.81,reported
+1974-07-01,fed_funds,Federal Funds Effective Rate,percent,12.92,reported
+1979-11-01,fed_funds,Federal Funds Effective Rate,percent,13.18,reported
+1982-01-01,fed_funds,Federal Funds Effective Rate,percent,13.22,reported
+1981-11-01,fed_funds,Federal Funds Effective Rate,percent,13.31,reported
+1979-10-01,fed_funds,Federal Funds Effective Rate,percent,13.77,reported
+1979-12-01,fed_funds,Federal Funds Effective Rate,percent,13.78,reported
+1980-01-01,fed_funds,Federal Funds Effective Rate,percent,13.82,reported
+1980-02-01,fed_funds,Federal Funds Effective Rate,percent,14.13,reported
+1982-06-01,fed_funds,Federal Funds Effective Rate,percent,14.15,reported
+1982-05-01,fed_funds,Federal Funds Effective Rate,percent,14.45,reported
+1982-03-01,fed_funds,Federal Funds Effective Rate,percent,14.68,reported
+1981-03-01,fed_funds,Federal Funds Effective Rate,percent,14.7,reported
+1982-02-01,fed_funds,Federal Funds Effective Rate,percent,14.78,reported
+1982-04-01,fed_funds,Federal Funds Effective Rate,percent,14.94,reported
+1981-10-01,fed_funds,Federal Funds Effective Rate,percent,15.08,reported
+1981-04-01,fed_funds,Federal Funds Effective Rate,percent,15.72,reported
+1980-11-01,fed_funds,Federal Funds Effective Rate,percent,15.85,reported
+1981-09-01,fed_funds,Federal Funds Effective Rate,percent,15.87,reported
+1981-02-01,fed_funds,Federal Funds Effective Rate,percent,15.93,reported
+1980-03-01,fed_funds,Federal Funds Effective Rate,percent,17.19,reported
+1980-04-01,fed_funds,Federal Funds Effective Rate,percent,17.61,reported
+1981-08-01,fed_funds,Federal Funds Effective Rate,percent,17.82,reported
+1981-05-01,fed_funds,Federal Funds Effective Rate,percent,18.52,reported
+1980-12-01,fed_funds,Federal Funds Effective Rate,percent,18.9,reported
+1981-07-01,fed_funds,Federal Funds Effective Rate,percent,19.04,reported
+1981-01-01,fed_funds,Federal Funds Effective Rate,percent,19.08,reported
+1981-06-01,fed_funds,Federal Funds Effective Rate,percent,19.1,reported

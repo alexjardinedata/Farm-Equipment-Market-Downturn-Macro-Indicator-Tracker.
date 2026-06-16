@@ -1,0 +1,5 @@
+series_id,series_name,unit,source,category
+fed_funds,Federal Funds Effective Rate,percent,FRED FEDFUNDS,Macro / Cost of capital
+inventory,Farm Machinery & Equip. Inventories,USD millions (SA),U.S. Census M3 via FRED A33ATI,Supply
+corn_ppi,Corn Producer Price Index,index 1982=100 (NSA),FRED WPU012202,Demand / Farm income
+shipments,Farm Machinery & Equip. Value of Shipments,USD millions (SA),U.S. Census M3 via FRED A33AVS,Supply
