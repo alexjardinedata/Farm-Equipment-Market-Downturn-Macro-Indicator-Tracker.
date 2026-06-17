@@ -184,10 +184,10 @@ footer b{color:#cfe3e8}
     <p class="purpose"><b>Purpose.</b> Test whether public, upstream economic data can serve as an early-warning layer for marketplace volume — and quantify how deep today's equipment downturn runs and whether it is still worsening. Four U.S. monthly series were pulled, cleaned, modeled, and analyzed in BigQuery SQL.</p>
     <div class="findings-h">What the data says, in brief</div>
     <div class="kpis">
-      <div class="kpi concern"><div class="v">−22.5%</div><div class="l">Equipment inventory below its 2022 peak — the contraction is deep</div></div>
-      <div class="kpi"><div class="v">−1.7%</div><div class="l">Latest year-over-year — the decline is decelerating, not accelerating</div></div>
-      <div class="kpi warn"><div class="v">2.22</div><div class="l">Months of inventory vs a 1.81 norm — supply is still backing up</div></div>
-      <div class="kpi"><div class="v">~9 mo</div><div class="l">Offset at which corn prices and inventory are most correlated</div></div>
+      <div class="kpi concern"><div class="v" data-count="-22.5" data-suffix="%" data-decimals="1">−22.5%</div><div class="l">Equipment inventory below its 2022 peak — the contraction is deep</div></div>
+      <div class="kpi"><div class="v" data-count="-1.7" data-suffix="%" data-decimals="1">−1.7%</div><div class="l">Latest year-over-year — the decline is decelerating, not accelerating</div></div>
+      <div class="kpi warn"><div class="v" data-count="2.22" data-decimals="2">2.22</div><div class="l">Months of inventory vs a 1.81 norm — supply is still backing up</div></div>
+      <div class="kpi"><div class="v" data-static="1">~9 mo</div><div class="l">Offset at which corn prices and inventory are most correlated</div></div>
     </div>
   </div>
 </div>
@@ -196,7 +196,7 @@ footer b{color:#cfe3e8}
 
   <section class="story">
     <h2>Macro conditions shifted: borrowing costs rose, corn came off its peak</h2>
-    <p class="subt">Federal funds rate and the corn price index. The 1992–2019 history is grayed for context; the 2020-onward period — the recent rate cycle and corn's spike and fall — is highlighted.</p>
+    <p class="subt">Federal funds rate and the corn price index, 2000–2026. The 2000–2019 history is grayed for context; the 2020-onward period — the recent rate cycle and corn's spike and fall — is highlighted.</p>
     <div class="card">
       <div class="chart-box"><canvas id="chMacro"></canvas></div>
       <div class="conclusion">Borrowing costs climbed from near zero to above 5% while corn prices fell well off their 2022 peak — macro conditions that coincided with the equipment pullback over the same period.</div>
@@ -316,33 +316,59 @@ Chart.defaults.font.family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,s
 Chart.defaults.font.size=11.5; Chart.defaults.color=MUTED;
 const yrTick=function(v){const m=this.getLabelForValue(v);return m&&m.endsWith('-01')?m.slice(0,4):'';};
 
+// ============================================================================
+//  SCROLL-TRIGGERED ANIMATION SYSTEM
+//  Each chart is registered as a factory and only instantiated when its canvas
+//  scrolls into view, so Chart.js animates the draw-in on first reveal.
+//  The four "target" charts (macro, drawdown, YoY, months-of-inventory) get
+//  explicit grow/fill animations; the rest use a clean fade/draw default.
+// ============================================================================
+const _charts={}; // id -> factory
+function register(id, factory){ _charts[id]=factory; }
+const _built={};
+const chartObserver=new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{
+    if(e.isIntersecting && !_built[e.target.id]){
+      _built[e.target.id]=true;
+      _charts[e.target.id] && _charts[e.target.id]();
+      chartObserver.unobserve(e.target);
+    }
+  });
+},{threshold:0.25});
+function arm(){ Object.keys(_charts).forEach(id=>{const el=document.getElementById(id); if(el) chartObserver.observe(el);}); }
+
 // MACRO factors over time (dual axis): pre-2020 grayed (noise), post-2020 colored (signal)
-const SPLIT=DATA.macro.months.findIndex(m=>m>='2020-01');
-// segment callback: gray before the split, colored after
+// Shortened to 2000-onward so the recent rate cycle and corn move aren't compressed against 1990s history.
+const MSTART=DATA.macro.months.findIndex(m=>m>='2000-01');
+const macroMonths=DATA.macro.months.slice(MSTART);
+const macroFF=DATA.macro.fed_funds.slice(MSTART);
+const macroCorn=DATA.macro.corn.slice(MSTART);
+const SPLIT=macroMonths.findIndex(m=>m>='2020-01');
 const seg=color=>({borderColor:c=>c.p0DataIndex>=SPLIT?color:GRAY});
-new Chart(document.getElementById('chMacro'),{
+register('chMacro',()=>new Chart(document.getElementById('chMacro'),{
   type:'line',
-  data:{labels:DATA.macro.months,
+  data:{labels:macroMonths,
     datasets:[
-      {label:'Federal funds rate (%)',data:DATA.macro.fed_funds,yAxisID:'yFF',borderColor:GRAY,borderWidth:2,pointRadius:0,tension:.15,segment:seg(SLATE)},
-      {label:'Corn price index',data:DATA.macro.corn,yAxisID:'yCorn',borderColor:GRAY,borderWidth:2,pointRadius:0,tension:.15,segment:seg(TEAL)}
+      {label:'Federal funds rate (%)',data:macroFF,yAxisID:'yFF',borderColor:GRAY,borderWidth:2,pointRadius:0,tension:.15,segment:seg(SLATE)},
+      {label:'Corn price index',data:macroCorn,yAxisID:'yCorn',borderColor:GRAY,borderWidth:2,pointRadius:0,tension:.15,segment:seg(TEAL)}
     ]},
   options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},
+    animation:{duration:1400,easing:'easeOutQuart',x:{from:0}},
     plugins:{legend:{display:true,labels:{boxWidth:14,font:{size:11.5},
       generateLabels:()=>[
         {text:'Federal funds rate (%) — since 2020',fillStyle:SLATE,strokeStyle:SLATE,lineWidth:0},
         {text:'Corn price index — since 2020',fillStyle:TEAL,strokeStyle:TEAL,lineWidth:0},
-        {text:'1992–2019 (context)',fillStyle:GRAY,strokeStyle:GRAY,lineWidth:0}
+        {text:'2000–2019 (context)',fillStyle:GRAY,strokeStyle:GRAY,lineWidth:0}
       ]}}},
     scales:{x:{ticks:{maxTicksLimit:12,callback:yrTick},grid:{display:false}},
       yFF:{position:'left',title:{display:true,text:'Fed funds %'},ticks:{callback:v=>v+'%'},grid:{color:LINE}},
       yCorn:{position:'right',title:{display:true,text:'Corn index'},grid:{drawOnChartArea:false}}}}
-});
+}));
 
-// DRAWDOWN: gray history, red post-2022 decline
+// DRAWDOWN: gray history, red post-2022 decline — animated draw-in left to right on scroll
 const PEAK=DATA.inv_full.months.indexOf('2022-10');
 const LAST=DATA.inv_full.months.length-1;
-new Chart(document.getElementById('chDrawdown'),{
+register('chDrawdown',()=>new Chart(document.getElementById('chDrawdown'),{
   type:'line',
   data:{labels:DATA.inv_full.months,
     datasets:[{data:DATA.inv_full.value,borderColor:GRAY,borderWidth:2,fill:false,tension:.15,
@@ -350,26 +376,31 @@ new Chart(document.getElementById('chDrawdown'),{
       pointBackgroundColor:c=>c.dataIndex===PEAK?GRAY_D:ALERT,pointBorderColor:'#fff',pointBorderWidth:1.5,
       segment:{borderColor:c=>c.p0DataIndex>=PEAK?ALERT:GRAY}}]},
   options:{responsive:true,maintainAspectRatio:false,
+    animation:{duration:1600,easing:'easeOutQuart',
+      x:{type:'number',from:c=>c.chart.scales.x.getPixelForValue(0)},
+      y:{type:'number',from:c=>c.chart.scales.y.getPixelForValue(c.chart.scales.y.max)}},
     plugins:{legend:{display:false},tooltip:{callbacks:{title:c=>c[0].label,label:c=>' $'+c.parsed.y.toLocaleString()+'M'}}},
     scales:{x:{ticks:{maxTicksLimit:12,callback:yrTick},grid:{display:false}},
       y:{ticks:{callback:v=>'$'+(v/1000).toFixed(0)+'B'},grid:{color:LINE}}}}
-});
+}));
 
-// YoY diverging bars: red below zero, gray at/above
-new Chart(document.getElementById('chYoY'),{
+// YoY diverging bars: red below zero, gray at/above — bars grow from the zero line on scroll
+register('chYoY',()=>new Chart(document.getElementById('chYoY'),{
   type:'bar',
   data:{labels:DATA.yoy_recent.months,
     datasets:[{data:DATA.yoy_recent.yoy,
       backgroundColor:DATA.yoy_recent.yoy.map(v=>v<0?'rgba(192,67,47,.78)':'rgba(154,168,177,.7)'),
       borderWidth:0,barPercentage:1,categoryPercentage:1}]},
   options:{responsive:true,maintainAspectRatio:false,
+    animation:{duration:1300,easing:'easeOutQuart',
+      y:{from:c=>c.chart.scales.y.getPixelForValue(0)},delay:c=>c.type==='data'?c.dataIndex*4:0},
     plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>' '+c.parsed.y.toFixed(1)+'%'}}},
     scales:{x:{ticks:{maxTicksLimit:9,callback:yrTick},grid:{display:false}},
       y:{ticks:{callback:v=>v+'%'},grid:{color:LINE}}}}
-});
+}));
 
-// Months of inventory: orange points above norm
-new Chart(document.getElementById('chMoI'),{
+// Months of inventory: orange points above norm — line draws in and fill rises on scroll
+register('chMoI',()=>new Chart(document.getElementById('chMoI'),{
   type:'line',
   data:{labels:DATA.moi_recent.months,
     datasets:[
@@ -381,14 +412,16 @@ new Chart(document.getElementById('chMoI'),{
        borderColor:MUTED,borderWidth:1.5,borderDash:[5,4],pointRadius:0,fill:false}
     ]},
   options:{responsive:true,maintainAspectRatio:false,
+    animation:{duration:1500,easing:'easeOutQuart',
+      y:{from:c=>c.chart.scales.y.getPixelForValue(DATA.moi_recent.avg)}},
     plugins:{legend:{display:false},tooltip:{filter:i=>i.datasetIndex===0,callbacks:{label:c=>' '+c.parsed.y.toFixed(2)+' months'}}},
     scales:{x:{ticks:{maxTicksLimit:9,callback:yrTick},grid:{display:false}},
       y:{ticks:{callback:v=>v.toFixed(1)},grid:{color:LINE}}}}
-});
+}));
 
 // Scatter: gray history, slate recent
 const recentPt=p=>p.m>='2022-01';
-new Chart(document.getElementById('chScatter'),{
+register('chScatter',()=>new Chart(document.getElementById('chScatter'),{
   type:'scatter',
   data:{datasets:[
     {data:DATA.scatter_inv_corn.filter(p=>!recentPt(p)),backgroundColor:'rgba(194,206,213,.55)',borderColor:GRAY,pointRadius:2.6},
@@ -398,11 +431,11 @@ new Chart(document.getElementById('chScatter'),{
     plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.raw.m+': corn '+c.raw.x+', inv $'+c.raw.y.toLocaleString()+'M'}}},
     scales:{x:{title:{display:true,text:'Corn price index'},grid:{color:LINE}},
       y:{title:{display:true,text:'Inventory (USD M)'},ticks:{callback:v=>'$'+(v/1000).toFixed(0)+'B'},grid:{color:LINE}}}}
-});
+}));
 
 // LEAD-LAG bars: peak (9 mo) in slate, others gray
 const LL=DATA.leadlag, peakIdx=LL.corn_inv.indexOf(Math.max(...LL.corn_inv));
-new Chart(document.getElementById('chLeadLag'),{
+register('chLeadLag',()=>new Chart(document.getElementById('chLeadLag'),{
   type:'bar',
   data:{labels:LL.lags.map(l=>l+' mo'),
     datasets:[{data:LL.corn_inv,
@@ -412,7 +445,41 @@ new Chart(document.getElementById('chLeadLag'),{
     plugins:{legend:{display:false},tooltip:{callbacks:{title:c=>'Corn shifted '+c[0].label+' earlier',label:c=>' correlation '+c.parsed.y.toFixed(3)}}},
     scales:{x:{title:{display:true,text:'Months corn is shifted earlier'},grid:{display:false}},
       y:{title:{display:true,text:'Correlation (detrended)'},min:0,max:0.5,grid:{color:LINE}}}}
-});
+}));
+
+// ============================================================================
+//  KPI COUNT-UP — numbers tick up to their final value when the strip scrolls in
+// ============================================================================
+function countUp(el){
+  const target=parseFloat(el.dataset.count);
+  const dec=parseInt(el.dataset.decimals||'0',10);
+  const suffix=el.dataset.suffix||'';
+  const dur=1300, t0=performance.now();
+  const neg=target<0;
+  function frame(now){
+    const p=Math.min((now-t0)/dur,1);
+    const eased=1-Math.pow(1-p,3); // easeOutCubic
+    const val=target*eased;
+    const shown=Math.abs(val).toFixed(dec);
+    el.textContent=(neg?'−':'')+shown+suffix;
+    if(p<1) requestAnimationFrame(frame);
+    else el.textContent=(neg?'−':'')+Math.abs(target).toFixed(dec)+suffix;
+  }
+  requestAnimationFrame(frame);
+}
+const kpiObserver=new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{
+    if(e.isIntersecting){
+      e.target.querySelectorAll('.v[data-count]').forEach(countUp);
+      kpiObserver.unobserve(e.target);
+    }
+  });
+},{threshold:0.5});
+
+// Arm everything once the DOM and Chart.js are ready.
+arm();
+const kpiStrip=document.querySelector('.kpis');
+if(kpiStrip) kpiObserver.observe(kpiStrip);
 </script>
 </body>
 </html>
