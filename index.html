@@ -73,8 +73,17 @@ td.num.dim{color:var(--gray-d);font-weight:500}
 .rec .b h3{font-size:15.5px;font-weight:700;margin-bottom:4px}
 .rec .b p{font-size:13.5px;color:#d3e4e9;line-height:1.5}
 
-footer{background:#143242;color:#9fb4c0;padding:24px 0;font-size:12.5px}
+footer{background:#143242;color:#9fb4c0;padding:40px 0 36px;font-size:12.5px}
 footer b{color:#cfe3e8}
+footer .ftitle{font-family:Georgia,serif;font-size:20px;color:#cfe3e8;margin-bottom:4px}
+footer .fsub{font-size:13px;color:#9fb4c0;margin-bottom:22px;max-width:760px}
+.btnrow{display:flex;flex-wrap:wrap;gap:12px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:11px 20px;border-radius:7px;font-size:14px;font-weight:600;text-decoration:none;transition:transform .15s ease,background .15s ease,border-color .15s ease;border:1px solid transparent}
+.btn.primary{background:var(--slate);color:#fff}
+.btn.primary:hover{background:#3a83ad;transform:translateY(-2px)}
+.btn.ghost{background:transparent;color:#fff;border-color:#2f5468}
+.btn.ghost:hover{border-color:var(--teal);transform:translateY(-2px)}
+.fnote{font-size:12px;color:#7d96a3;margin-top:18px;line-height:1.45}
 @media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}.grid2{grid-template-columns:1fr}h1{font-size:23px}.story h2{font-size:18px}}
 </style>
 </head>
@@ -195,8 +204,8 @@ footer b{color:#cfe3e8}
 <div class="wrap">
 
   <section class="story">
-    <h2>Macro conditions shifted: borrowing costs rose, corn came off its peak</h2>
-    <p class="subt">Federal funds rate and the corn price index, 2000–2026. The 2000–2019 history is grayed for context; the 2020-onward period — the recent rate cycle and corn's spike and fall — is highlighted.</p>
+    <h2>Borrowing costs rose as corn came off its peak</h2>
+    <p class="subt">Federal funds rate vs. corn price index, since 2020 — the two macro forces behind the equipment pullback.</p>
     <div class="card">
       <div class="chart-box"><canvas id="chMacro"></canvas></div>
       <div class="conclusion">Borrowing costs climbed from near zero to above 5% while corn prices fell well off their 2022 peak — macro conditions that coincided with the equipment pullback over the same period.</div>
@@ -305,7 +314,15 @@ footer b{color:#cfe3e8}
 
 <footer>
   <div class="wrap">
-    <b>Farm-Equipment Market Downturn — Macro Indicator Tracker.</b> Built by Alex Jardine · Public FRED data, modeled in BigQuery SQL, visualized for decision-makers.
+    <div class="ftitle">Farm-Equipment Market Downturn — Macro Indicator Tracker</div>
+    <div class="fsub">Built by Alex Jardine · Public FRED data, modeled in BigQuery SQL, visualized for decision-makers.</div>
+    <div class="btnrow">
+      <a class="btn primary" href="https://github.com/alexjardinedata/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker." target="_blank" rel="noopener">View on GitHub</a>
+      <a class="btn ghost" href="https://www.linkedin.com/in/alexjardinedata" target="_blank" rel="noopener">Connect on LinkedIn</a>
+      <a class="btn ghost" href="https://github.com/alexjardinedata/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker./blob/main/docs/README.md" target="_blank" rel="noopener">View README</a>
+      <a class="btn ghost" href="https://github.com/alexjardinedata/Farm-Equipment-Market-Downturn-Macro-Indicator-Tracker./raw/main/docs/queries.sql" target="_blank" rel="noopener">Download queries.sql</a>
+    </div>
+    <p class="fnote">Source: public FRED series (FEDFUNDS, corn price index, manufacturer farm-machinery inventories &amp; shipments) · Tools: BigQuery SQL, Chart.js.</p>
   </div>
 </footer>
 
@@ -314,6 +331,22 @@ const DATA = {"inv_full": {"months": ["1992-01", "1992-02", "1992-03", "1992-04"
 const SLATE='#2f6d8f', SLATE_D='#1d4a63', TEAL='#6aa3a9', GRAY='#c2ced5', GRAY_D='#9aa8b1', MUTED='#5d6f7b', LINE='#e1e8ed', WARN='#e08a2e', ALERT='#c0432f';
 Chart.defaults.font.family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif";
 Chart.defaults.font.size=11.5; Chart.defaults.color=MUTED;
+const LBLFONT='-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif';
+// Draws a label at pos {x,y} (in whitespace) with a thin connector to the data point at anchor {x,y}.
+// align positions the text so it grows AWAY from the anchor; the leader starts just outside the text.
+function leaderLabel(ctx,anchor,pos,text,color,align){
+  ctx.save();
+  ctx.font='700 12px '+LBLFONT;
+  const dx=anchor.x-pos.x,dy=anchor.y-pos.y,len=Math.hypot(dx,dy)||1,gap=15;
+  ctx.strokeStyle=color;ctx.lineWidth=1;ctx.globalAlpha=.5;
+  ctx.beginPath();ctx.moveTo(pos.x+dx/len*gap,pos.y+dy/len*gap);ctx.lineTo(anchor.x,anchor.y);ctx.stroke();
+  ctx.globalAlpha=1;
+  ctx.fillStyle=color;ctx.beginPath();ctx.arc(anchor.x,anchor.y,2.5,0,Math.PI*2);ctx.fill();
+  ctx.textAlign=align;ctx.textBaseline='middle';ctx.fillText(text,pos.x,pos.y);
+  ctx.restore();
+}
+const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const monLbl=m=>MON[+m.slice(5,7)-1]+' '+m.slice(0,4);
 const yrTick=function(v){const m=this.getLabelForValue(v);return m&&m.endsWith('-01')?m.slice(0,4):'';};
 
 // ============================================================================
@@ -339,35 +372,55 @@ function arm(){ Object.keys(_charts).forEach(id=>{const el=document.getElementBy
 
 // MACRO factors over time (dual axis): pre-2020 grayed (noise), post-2020 colored (signal)
 // Shortened to 2000-onward so the recent rate cycle and corn move aren't compressed against 1990s history.
-const MSTART=DATA.macro.months.findIndex(m=>m>='2000-01');
+const MSTART=DATA.macro.months.findIndex(m=>m>='2020-01');
 const macroMonths=DATA.macro.months.slice(MSTART);
 const macroFF=DATA.macro.fed_funds.slice(MSTART);
 const macroCorn=DATA.macro.corn.slice(MSTART);
-const SPLIT=macroMonths.findIndex(m=>m>='2020-01');
-const seg=color=>({borderColor:c=>c.p0DataIndex>=SPLIT?color:GRAY});
+// Direct end-of-line labels replace the legend: name + direction sit on each line's last point.
+const macroEndLabels={id:'macroEndLabels',afterDatasetsDraw(c){
+  const x=c.ctx;x.save();
+  x.font='700 12.5px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif';
+  x.textBaseline='middle';
+  const a=c.getDatasetMeta(0).data,b=c.getDatasetMeta(1).data;
+  if(a.length&&b.length){
+    const pa=a[a.length-1],pb=b[b.length-1];
+    x.fillStyle=WARN;x.fillText('Fed funds  \u25B2 3.6%',pa.x+8,pa.y);
+    x.fillStyle=SLATE;x.fillText('Corn  \u25BC from peak',pb.x+8,pb.y);
+  }
+  x.restore();
+}};
 register('chMacro',()=>new Chart(document.getElementById('chMacro'),{
   type:'line',
   data:{labels:macroMonths,
     datasets:[
-      {label:'Federal funds rate (%)',data:macroFF,yAxisID:'yFF',borderColor:GRAY,borderWidth:2,pointRadius:0,tension:.15,segment:seg(SLATE)},
-      {label:'Corn price index',data:macroCorn,yAxisID:'yCorn',borderColor:GRAY,borderWidth:2,pointRadius:0,tension:.15,segment:seg(TEAL)}
+      {label:'Federal funds rate (%)',data:macroFF,yAxisID:'yFF',borderColor:WARN,backgroundColor:WARN,borderWidth:2.5,pointRadius:0,tension:.2},
+      {label:'Corn price index',data:macroCorn,yAxisID:'yCorn',borderColor:SLATE,backgroundColor:SLATE,borderWidth:2.5,borderDash:[5,4],pointRadius:0,tension:.2}
     ]},
   options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},
     animation:{duration:1400,easing:'easeOutQuart',x:{from:0}},
-    plugins:{legend:{display:true,labels:{boxWidth:14,font:{size:11.5},
-      generateLabels:()=>[
-        {text:'Federal funds rate (%) — since 2020',fillStyle:SLATE,strokeStyle:SLATE,lineWidth:0},
-        {text:'Corn price index — since 2020',fillStyle:TEAL,strokeStyle:TEAL,lineWidth:0},
-        {text:'2000–2019 (context)',fillStyle:GRAY,strokeStyle:GRAY,lineWidth:0}
-      ]}}},
-    scales:{x:{ticks:{maxTicksLimit:12,callback:yrTick},grid:{display:false}},
-      yFF:{position:'left',title:{display:true,text:'Fed funds %'},ticks:{callback:v=>v+'%'},grid:{color:LINE}},
-      yCorn:{position:'right',title:{display:true,text:'Corn index'},grid:{drawOnChartArea:false}}}}
+    layout:{padding:{right:128}},
+    plugins:{legend:{display:false},
+      tooltip:{callbacks:{label:c=>c.dataset.yAxisID==='yFF'?' Fed funds '+c.parsed.y+'%':' Corn index '+Math.round(c.parsed.y)}}},
+    scales:{x:{ticks:{maxTicksLimit:8,callback:yrTick},grid:{display:false}},
+      yFF:{position:'left',min:0,max:7,title:{display:true,text:'Fed funds rate',color:WARN},ticks:{color:WARN,callback:v=>v+'%'},grid:{color:LINE}},
+      yCorn:{position:'right',title:{display:true,text:'Corn price index',color:SLATE},ticks:{color:SLATE},grid:{drawOnChartArea:false}}}},
+  plugins:[macroEndLabels]
 }));
 
 // DRAWDOWN: gray history, red post-2022 decline — animated draw-in left to right on scroll
 const PEAK=DATA.inv_full.months.indexOf('2022-10');
 const LAST=DATA.inv_full.months.length-1;
+const drawdownLabels={id:'drawdownLabels',afterDatasetsDraw(c){
+  const x=c.ctx,m=c.getDatasetMeta(0).data;if(m.length<2)return;
+  const v=DATA.inv_full.value,ca=c.chartArea,W=ca.right-ca.left;
+  const pk=m[PEAK],lt=m[LAST];
+  // Peak: label parked in empty upper band, left of the spike; leader runs right to the peak.
+  leaderLabel(x,{x:pk.x,y:pk.y},{x:ca.left+W*0.50,y:ca.top+14},
+    'Peak · $'+(v[PEAK]/1000).toFixed(1)+'B ('+monLbl(DATA.inv_full.months[PEAK])+')',GRAY_D,'right');
+  // Latest: label parked in the empty lower-right, below the end point; leader runs up.
+  leaderLabel(x,{x:lt.x,y:lt.y},{x:ca.right-6,y:lt.y+52},
+    '$'+(v[LAST]/1000).toFixed(1)+'B · −'+Math.abs((v[LAST]/v[PEAK]-1)*100).toFixed(0)+'% from peak',ALERT,'right');
+}};
 register('chDrawdown',()=>new Chart(document.getElementById('chDrawdown'),{
   type:'line',
   data:{labels:DATA.inv_full.months,
@@ -376,15 +429,27 @@ register('chDrawdown',()=>new Chart(document.getElementById('chDrawdown'),{
       pointBackgroundColor:c=>c.dataIndex===PEAK?GRAY_D:ALERT,pointBorderColor:'#fff',pointBorderWidth:1.5,
       segment:{borderColor:c=>c.p0DataIndex>=PEAK?ALERT:GRAY}}]},
   options:{responsive:true,maintainAspectRatio:false,
+    layout:{padding:{top:24}},
     animation:{duration:1600,easing:'easeOutQuart',
       x:{type:'number',from:c=>c.chart.scales.x.getPixelForValue(0)},
       y:{type:'number',from:c=>c.chart.scales.y.getPixelForValue(c.chart.scales.y.max)}},
     plugins:{legend:{display:false},tooltip:{callbacks:{title:c=>c[0].label,label:c=>' $'+c.parsed.y.toLocaleString()+'M'}}},
     scales:{x:{ticks:{maxTicksLimit:12,callback:yrTick},grid:{display:false}},
-      y:{ticks:{callback:v=>'$'+(v/1000).toFixed(0)+'B'},grid:{color:LINE}}}}
+      y:{ticks:{callback:v=>'$'+(v/1000).toFixed(0)+'B'},grid:{color:LINE}}}},
+  plugins:[drawdownLabels]
 }));
 
 // YoY diverging bars: red below zero, gray at/above — bars grow from the zero line on scroll
+const yoyLabels={id:'yoyLabels',afterDatasetsDraw(c){
+  const x=c.ctx,m=c.getDatasetMeta(0).data,d=DATA.yoy_recent.yoy;if(!m.length)return;
+  const tIdx=d.indexOf(Math.min(...d)),lIdx=d.length-1,ca=c.chartArea,W=ca.right-ca.left;
+  const fmt=val=>(val<0?'−':'')+Math.abs(val).toFixed(1)+'%';
+  const tb=m[tIdx],lb=m[lIdx];
+  // Trough: lifted up-right off the axis tick into the empty sub-zero band; leader down to the bar.
+  leaderLabel(x,{x:tb.x,y:tb.y},{x:tb.x+W*0.07,y:tb.y-34},fmt(d[tIdx])+' trough',ALERT,'left');
+  // Latest: parked in the empty lower-right corner; leader up to the last bar.
+  leaderLabel(x,{x:lb.x,y:lb.y},{x:ca.right-6,y:ca.bottom-16},fmt(d[lIdx])+' latest',ALERT,'right');
+}};
 register('chYoY',()=>new Chart(document.getElementById('chYoY'),{
   type:'bar',
   data:{labels:DATA.yoy_recent.months,
@@ -392,14 +457,25 @@ register('chYoY',()=>new Chart(document.getElementById('chYoY'),{
       backgroundColor:DATA.yoy_recent.yoy.map(v=>v<0?'rgba(192,67,47,.78)':'rgba(154,168,177,.7)'),
       borderWidth:0,barPercentage:1,categoryPercentage:1}]},
   options:{responsive:true,maintainAspectRatio:false,
+    layout:{padding:{bottom:24,right:10}},
     animation:{duration:1300,easing:'easeOutQuart',
       y:{from:c=>c.chart.scales.y.getPixelForValue(0)},delay:c=>c.type==='data'?c.dataIndex*4:0},
     plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>' '+c.parsed.y.toFixed(1)+'%'}}},
     scales:{x:{ticks:{maxTicksLimit:9,callback:yrTick},grid:{display:false}},
-      y:{ticks:{callback:v=>v+'%'},grid:{color:LINE}}}}
+      y:{ticks:{callback:v=>v+'%'},grid:{color:LINE}}}},
+  plugins:[yoyLabels]
 }));
 
 // Months of inventory: orange points above norm — line draws in and fill rises on scroll
+const moiLabels={id:'moiLabels',afterDatasetsDraw(c){
+  const x=c.ctx,m0=c.getDatasetMeta(0).data,m1=c.getDatasetMeta(1).data;if(!m0.length)return;
+  const moi=DATA.moi_recent.moi,avg=DATA.moi_recent.avg,ca=c.chartArea;
+  const lt=m0[m0.length-1],nm=m1[m1.length-1];
+  // Latest: parked in the empty top-right, above the orange cluster; leader down to the last point.
+  leaderLabel(x,{x:lt.x,y:lt.y},{x:ca.right-6,y:ca.top+12},moi[moi.length-1].toFixed(2)+' mo · latest',WARN,'right');
+  // Norm: parked in the empty band below the dashed line; leader up to the norm line.
+  leaderLabel(x,{x:nm.x-2,y:nm.y},{x:ca.right-6,y:nm.y+40},avg.toFixed(2)+' mo · 10-yr norm',MUTED,'right');
+}};
 register('chMoI',()=>new Chart(document.getElementById('chMoI'),{
   type:'line',
   data:{labels:DATA.moi_recent.months,
@@ -412,26 +488,45 @@ register('chMoI',()=>new Chart(document.getElementById('chMoI'),{
        borderColor:MUTED,borderWidth:1.5,borderDash:[5,4],pointRadius:0,fill:false}
     ]},
   options:{responsive:true,maintainAspectRatio:false,
+    layout:{padding:{top:20}},
     animation:{duration:1500,easing:'easeOutQuart',
       y:{from:c=>c.chart.scales.y.getPixelForValue(DATA.moi_recent.avg)}},
     plugins:{legend:{display:false},tooltip:{filter:i=>i.datasetIndex===0,callbacks:{label:c=>' '+c.parsed.y.toFixed(2)+' months'}}},
     scales:{x:{ticks:{maxTicksLimit:9,callback:yrTick},grid:{display:false}},
-      y:{ticks:{callback:v=>v.toFixed(1)},grid:{color:LINE}}}}
+      y:{ticks:{callback:v=>v.toFixed(1)},grid:{color:LINE}}}},
+  plugins:[moiLabels]
 }));
 
-// Scatter: gray history, slate recent
+// Scatter: gray history, slate recent — with OLS trend line over all points
 const recentPt=p=>p.m>='2022-01';
-register('chScatter',()=>new Chart(document.getElementById('chScatter'),{
-  type:'scatter',
-  data:{datasets:[
-    {data:DATA.scatter_inv_corn.filter(p=>!recentPt(p)),backgroundColor:'rgba(194,206,213,.55)',borderColor:GRAY,pointRadius:2.6},
-    {data:DATA.scatter_inv_corn.filter(recentPt),backgroundColor:'rgba(47,109,143,.65)',borderColor:SLATE,pointRadius:3.6}
-  ]},
-  options:{responsive:true,maintainAspectRatio:false,
-    plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.raw.m+': corn '+c.raw.x+', inv $'+c.raw.y.toLocaleString()+'M'}}},
-    scales:{x:{title:{display:true,text:'Corn price index'},grid:{color:LINE}},
-      y:{title:{display:true,text:'Inventory (USD M)'},ticks:{callback:v=>'$'+(v/1000).toFixed(0)+'B'},grid:{color:LINE}}}}
-}));
+register('chScatter',()=>{
+  const pts=DATA.scatter_inv_corn,n=pts.length;
+  let sx=0,sy=0,sxy=0,sxx=0,syy=0;
+  for(const p of pts){sx+=p.x;sy+=p.y;sxy+=p.x*p.y;sxx+=p.x*p.x;syy+=p.y*p.y;}
+  const slope=(n*sxy-sx*sy)/(n*sxx-sx*sx),intercept=(sy-slope*sx)/n;
+  const r=(n*sxy-sx*sy)/Math.sqrt((n*sxx-sx*sx)*(n*syy-sy*sy));
+  const xs=pts.map(p=>p.x),xmin=Math.min(...xs),xmax=Math.max(...xs);
+  const trend=[{x:xmin,y:slope*xmin+intercept},{x:xmax,y:slope*xmax+intercept}];
+  const trendLabel={id:'scatterTrend',afterDatasetsDraw(c){
+    const meta=c.getDatasetMeta(2);if(!meta||meta.data.length<2)return;
+    const p=meta.data[1],ca=c.chartArea;
+    // Label parked in the empty lower-right; leader up to the trend line's end.
+    leaderLabel(c.ctx,{x:p.x,y:p.y},{x:ca.right-10,y:ca.bottom-30},'Linear trend  ·  r = '+r.toFixed(2),SLATE_D,'right');
+  }};
+  return new Chart(document.getElementById('chScatter'),{
+    type:'scatter',
+    data:{datasets:[
+      {data:DATA.scatter_inv_corn.filter(p=>!recentPt(p)),backgroundColor:'rgba(194,206,213,.55)',borderColor:GRAY,pointRadius:2.6},
+      {data:DATA.scatter_inv_corn.filter(recentPt),backgroundColor:'rgba(47,109,143,.65)',borderColor:SLATE,pointRadius:3.6},
+      {type:'line',data:trend,borderColor:SLATE_D,borderWidth:2,borderDash:[6,4],pointRadius:0,fill:false}
+    ]},
+    options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{filter:i=>i.datasetIndex<2,callbacks:{label:c=>c.raw.m+': corn '+c.raw.x+', inv $'+c.raw.y.toLocaleString()+'M'}}},
+      scales:{x:{title:{display:true,text:'Corn price index'},grid:{color:LINE}},
+        y:{title:{display:true,text:'Inventory (USD M)'},ticks:{callback:v=>'$'+(v/1000).toFixed(0)+'B'},grid:{color:LINE}}}},
+    plugins:[trendLabel]
+  });
+});
 
 // LEAD-LAG bars: peak (9 mo) in slate, others gray
 const LL=DATA.leadlag, peakIdx=LL.corn_inv.indexOf(Math.max(...LL.corn_inv));
